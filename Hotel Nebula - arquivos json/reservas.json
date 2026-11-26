@@ -1,0 +1,1586 @@
+[
+  {
+    "_id": {
+      "$oid": "565fd5893276d3da36f0deed"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "hospede_snapshot": {
+      "nome": "Carlos Andrade",
+      "email": "carlos.andrade@email.com",
+      "telefone": "+55 11 98765-4321"
+    },
+    "quarto_id": {
+      "$oid": "3dbd472fa8bc309647d34c2a"
+    },
+    "quarto_snapshot": {
+      "numero": "101",
+      "tipo": "standard",
+      "preco_diaria": 250.0
+    },
+    "data_checkin": {
+      "$date": "2026-04-10T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-04-14T00:00:00Z"
+    },
+    "num_noites": 4,
+    "num_hospedes": 2,
+    "valor_total": 1000.0,
+    "status": "concluida",
+    "canal": "site_proprio",
+    "codigo_reserva": "HN-2026-00142",
+    "observacoes": "Solicita berço para bebê.",
+    "data_criacao": {
+      "$date": "2026-03-28T14:22:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-03-28T14:22:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5d8cf2d9a8c3a0da895ec83c"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "hospede_snapshot": {
+      "nome": "Carlos Andrade",
+      "email": "carlos.andrade@email.com",
+      "telefone": "+55 11 98765-4321"
+    },
+    "quarto_id": {
+      "$oid": "3dbd472fa8bc309647d34c2a"
+    },
+    "quarto_snapshot": {
+      "numero": "101",
+      "tipo": "standard",
+      "preco_diaria": 250.0
+    },
+    "data_checkin": {
+      "$date": "2026-01-10T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "num_noites": 3,
+    "num_hospedes": 2,
+    "valor_total": 750.0,
+    "status": "concluida",
+    "canal": "site_proprio",
+    "codigo_reserva": "HN-2026-00102",
+    "data_criacao": {
+      "$date": "2025-12-20T09:40:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2025-12-20T09:40:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "95a02eb4990ec5c9d95cdabe"
+    },
+    "hospede_id": {
+      "$oid": "fea9a6cc59ab0f97ac2bcfcd"
+    },
+    "hospede_snapshot": {
+      "nome": "Mariana Souza",
+      "email": "mariana.souza@email.com",
+      "telefone": "+55 21 99876-1234"
+    },
+    "quarto_id": {
+      "$oid": "1bce6bf96171059160ae74fd"
+    },
+    "quarto_snapshot": {
+      "numero": "301",
+      "tipo": "luxo",
+      "preco_diaria": 520.0
+    },
+    "data_checkin": {
+      "$date": "2026-02-14T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-02-17T00:00:00Z"
+    },
+    "num_noites": 3,
+    "num_hospedes": 2,
+    "valor_total": 1560.0,
+    "status": "concluida",
+    "canal": "app",
+    "codigo_reserva": "HN-2026-00103",
+    "observacoes": "Comemoração de aniversário de namoro.",
+    "data_criacao": {
+      "$date": "2026-01-30T18:05:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-01-30T18:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2bc47d1bbb745d7b97424eb5"
+    },
+    "hospede_id": {
+      "$oid": "05f61134b92c319d4191de96"
+    },
+    "hospede_snapshot": {
+      "nome": "John Smith",
+      "email": "john.smith@mail.com",
+      "telefone": "+1 305 555 0192"
+    },
+    "quarto_id": {
+      "$oid": "13ec43cb18053a2e08fc51f2"
+    },
+    "quarto_snapshot": {
+      "numero": "102",
+      "tipo": "standard",
+      "preco_diaria": 280.0
+    },
+    "data_checkin": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "num_noites": 4,
+    "num_hospedes": 3,
+    "valor_total": 1120.0,
+    "status": "concluida",
+    "canal": "booking",
+    "codigo_reserva": "HN-2026-00104",
+    "data_criacao": {
+      "$date": "2026-02-10T12:00:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-02-10T12:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e67014131ddbc4a230cafb"
+    },
+    "hospede_id": {
+      "$oid": "fea9a6cc59ab0f97ac2bcfcd"
+    },
+    "hospede_snapshot": {
+      "nome": "Mariana Souza",
+      "email": "mariana.souza@email.com",
+      "telefone": "+55 21 99876-1234"
+    },
+    "quarto_id": {
+      "$oid": "ce1f8c947fca29b4bedeb74f"
+    },
+    "quarto_snapshot": {
+      "numero": "501",
+      "tipo": "suite",
+      "preco_diaria": 980.0
+    },
+    "data_checkin": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-04-21T00:00:00Z"
+    },
+    "num_noites": 3,
+    "num_hospedes": 4,
+    "valor_total": 2940.0,
+    "status": "concluida",
+    "canal": "telefone",
+    "codigo_reserva": "HN-2026-00105",
+    "data_criacao": {
+      "$date": "2026-04-02T10:15:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-04-02T10:15:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d2c378d66feb44dff84e1282"
+    },
+    "hospede_id": {
+      "$oid": "a6bcca31ccdcb96eeeea9b35"
+    },
+    "hospede_snapshot": {
+      "nome": "Fernanda Lima",
+      "email": "fernanda.lima@email.com",
+      "telefone": "+55 31 98888-7777"
+    },
+    "quarto_id": {
+      "$oid": "864c35f72c21143c70bcac78"
+    },
+    "quarto_snapshot": {
+      "numero": "302",
+      "tipo": "luxo",
+      "preco_diaria": 560.0
+    },
+    "data_checkin": {
+      "$date": "2026-04-25T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-04-27T00:00:00Z"
+    },
+    "num_noites": 2,
+    "num_hospedes": 2,
+    "valor_total": 1120.0,
+    "status": "concluida",
+    "canal": "app",
+    "codigo_reserva": "HN-2026-00106",
+    "data_criacao": {
+      "$date": "2026-04-10T21:30:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-04-10T21:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0412cea6f1d3073be271bf62"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "hospede_snapshot": {
+      "nome": "Rafael Costa",
+      "email": "rafael.costa@email.com",
+      "telefone": "+55 41 97777-6666"
+    },
+    "quarto_id": {
+      "$oid": "bdceb719af53631384373c65"
+    },
+    "quarto_snapshot": {
+      "numero": "502",
+      "tipo": "suite",
+      "preco_diaria": 850.0
+    },
+    "data_checkin": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-05-06T00:00:00Z"
+    },
+    "num_noites": 4,
+    "num_hospedes": 4,
+    "valor_total": 3400.0,
+    "status": "concluida",
+    "canal": "booking",
+    "codigo_reserva": "HN-2026-00107",
+    "observacoes": "Chegada prevista para o fim da tarde.",
+    "data_criacao": {
+      "$date": "2026-04-15T08:50:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-04-15T08:50:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "106e8f2b43a571e99ad16813"
+    },
+    "hospede_id": {
+      "$oid": "05f61134b92c319d4191de96"
+    },
+    "hospede_snapshot": {
+      "nome": "John Smith",
+      "email": "john.smith@mail.com",
+      "telefone": "+1 305 555 0192"
+    },
+    "quarto_id": {
+      "$oid": "13ec43cb18053a2e08fc51f2"
+    },
+    "quarto_snapshot": {
+      "numero": "102",
+      "tipo": "standard",
+      "preco_diaria": 280.0
+    },
+    "data_checkin": {
+      "$date": "2026-07-12T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-07-15T00:00:00Z"
+    },
+    "num_noites": 3,
+    "num_hospedes": 2,
+    "valor_total": 840.0,
+    "status": "cancelada",
+    "canal": "site_proprio",
+    "codigo_reserva": "HN-2026-00108",
+    "observacoes": "Cancelada pelo hóspede.",
+    "data_criacao": {
+      "$date": "2026-06-20T15:00:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-06-20T15:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8271e8e7da7f03ea134e3384"
+    },
+    "hospede_id": {
+      "$oid": "a6bcca31ccdcb96eeeea9b35"
+    },
+    "hospede_snapshot": {
+      "nome": "Fernanda Lima",
+      "email": "fernanda.lima@email.com",
+      "telefone": "+55 31 98888-7777"
+    },
+    "quarto_id": {
+      "$oid": "1bce6bf96171059160ae74fd"
+    },
+    "quarto_snapshot": {
+      "numero": "301",
+      "tipo": "luxo",
+      "preco_diaria": 520.0
+    },
+    "data_checkin": {
+      "$date": "2026-12-26T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-12-30T00:00:00Z"
+    },
+    "num_noites": 4,
+    "num_hospedes": 2,
+    "valor_total": 2080.0,
+    "status": "confirmada",
+    "canal": "app",
+    "codigo_reserva": "HN-2026-00109",
+    "data_criacao": {
+      "$date": "2026-10-05T13:25:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-10-05T13:25:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "000c3e987d0a31276d80da10"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "hospede_snapshot": {
+      "nome": "Carlos Andrade",
+      "email": "carlos.andrade@email.com",
+      "telefone": "+55 11 98765-4321"
+    },
+    "quarto_id": {
+      "$oid": "3e690febd97ec02db55f9e01"
+    },
+    "quarto_snapshot": {
+      "numero": "403",
+      "tipo": "luxo",
+      "preco_diaria": 500.0
+    },
+    "data_checkin": {
+      "$date": "2026-12-21T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-12-27T00:00:00Z"
+    },
+    "num_noites": 6,
+    "num_hospedes": 1,
+    "valor_total": 3000.0,
+    "status": "confirmada",
+    "canal": "booking",
+    "codigo_reserva": "HN-2026-00110",
+    "data_criacao": {
+      "$date": "2026-12-02T14:44:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-12-02T14:44:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "217d889e4e9f4b9fbdfd5a1b"
+    },
+    "hospede_id": {
+      "$oid": "784718ad67ffad151798b3a7"
+    },
+    "hospede_snapshot": {
+      "nome": "Larissa Gomes",
+      "email": "larissa.gomes@email.com",
+      "telefone": "+55 41 91117-2163"
+    },
+    "quarto_id": {
+      "$oid": "3e690febd97ec02db55f9e01"
+    },
+    "quarto_snapshot": {
+      "numero": "403",
+      "tipo": "luxo",
+      "preco_diaria": 500.0
+    },
+    "data_checkin": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "num_noites": 3,
+    "num_hospedes": 2,
+    "valor_total": 1500.0,
+    "status": "concluida",
+    "canal": "agencia",
+    "codigo_reserva": "HN-2026-00111",
+    "observacoes": "Comemoração de aniversário.",
+    "data_criacao": {
+      "$date": "2026-03-24T13:44:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-03-24T13:44:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f0f3f556aa02db57e0f6b40d"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "hospede_snapshot": {
+      "nome": "Rafael Costa",
+      "email": "rafael.costa@email.com",
+      "telefone": "+55 41 97777-6666"
+    },
+    "quarto_id": {
+      "$oid": "7fac430634f131d20be6a884"
+    },
+    "quarto_snapshot": {
+      "numero": "202",
+      "tipo": "standard",
+      "preco_diaria": 300.0
+    },
+    "data_checkin": {
+      "$date": "2026-03-02T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-03-07T00:00:00Z"
+    },
+    "num_noites": 5,
+    "num_hospedes": 3,
+    "valor_total": 1500.0,
+    "status": "concluida",
+    "canal": "telefone",
+    "codigo_reserva": "HN-2026-00112",
+    "observacoes": "Alergia a amendoim: evitar no café da manhã.",
+    "data_criacao": {
+      "$date": "2026-02-19T21:00:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-02-19T21:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "fd2f8d91131e9ae5de16c991"
+    },
+    "hospede_id": {
+      "$oid": "45f3bed8b228cdd4ec6726a4"
+    },
+    "hospede_snapshot": {
+      "nome": "Juliana Ferreira",
+      "email": "juliana.ferreira@email.com",
+      "telefone": "+55 81 92133-9727"
+    },
+    "quarto_id": {
+      "$oid": "2ab0887006ceb28b1e2a7162"
+    },
+    "quarto_snapshot": {
+      "numero": "601",
+      "tipo": "suite",
+      "preco_diaria": 1050.0
+    },
+    "data_checkin": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-05-18T00:00:00Z"
+    },
+    "num_noites": 3,
+    "num_hospedes": 1,
+    "valor_total": 3150.0,
+    "status": "concluida",
+    "canal": "agencia",
+    "codigo_reserva": "HN-2026-00113",
+    "data_criacao": {
+      "$date": "2026-05-04T20:13:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-05-04T20:13:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f5fe87942a4524b8f0b6acf"
+    },
+    "hospede_id": {
+      "$oid": "5ca075cb55498032bc4cf12b"
+    },
+    "hospede_snapshot": {
+      "nome": "Thiago Martins",
+      "email": "thiago.martins@email.com",
+      "telefone": "+55 85 99689-1009"
+    },
+    "quarto_id": {
+      "$oid": "63dec56e7cb86f62d775c0e9"
+    },
+    "quarto_snapshot": {
+      "numero": "104",
+      "tipo": "standard",
+      "preco_diaria": 270.0
+    },
+    "data_checkin": {
+      "$date": "2026-12-04T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-12-09T00:00:00Z"
+    },
+    "num_noites": 5,
+    "num_hospedes": 1,
+    "valor_total": 1350.0,
+    "status": "confirmada",
+    "canal": "site_proprio",
+    "codigo_reserva": "HN-2026-00114",
+    "observacoes": "Chegada prevista para o fim da tarde.",
+    "data_criacao": {
+      "$date": "2026-11-26T10:50:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-11-26T10:50:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "cd2b6574764763c9c559e88f"
+    },
+    "hospede_id": {
+      "$oid": "45f3bed8b228cdd4ec6726a4"
+    },
+    "hospede_snapshot": {
+      "nome": "Juliana Ferreira",
+      "email": "juliana.ferreira@email.com",
+      "telefone": "+55 81 92133-9727"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "quarto_snapshot": {
+      "numero": "402",
+      "tipo": "luxo",
+      "preco_diaria": 500.0
+    },
+    "data_checkin": {
+      "$date": "2026-07-19T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-07-22T00:00:00Z"
+    },
+    "num_noites": 3,
+    "num_hospedes": 3,
+    "valor_total": 1500.0,
+    "status": "concluida",
+    "canal": "telefone",
+    "codigo_reserva": "HN-2026-00115",
+    "observacoes": "Comemoração de aniversário.",
+    "data_criacao": {
+      "$date": "2026-06-27T16:34:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-06-27T16:34:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8d373edaa7aad1a207e7cef0"
+    },
+    "hospede_id": {
+      "$oid": "05f61134b92c319d4191de96"
+    },
+    "hospede_snapshot": {
+      "nome": "John Smith",
+      "email": "john.smith@mail.com",
+      "telefone": "+1 305 555 0192"
+    },
+    "quarto_id": {
+      "$oid": "c4c6b715bc17e700c4a2ef0d"
+    },
+    "quarto_snapshot": {
+      "numero": "504",
+      "tipo": "suite",
+      "preco_diaria": 1050.0
+    },
+    "data_checkin": {
+      "$date": "2026-12-22T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-12-26T00:00:00Z"
+    },
+    "num_noites": 4,
+    "num_hospedes": 3,
+    "valor_total": 4200.0,
+    "status": "confirmada",
+    "canal": "booking",
+    "codigo_reserva": "HN-2026-00116",
+    "observacoes": "Viagem a trabalho.",
+    "data_criacao": {
+      "$date": "2026-11-27T09:49:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-11-27T09:49:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "807a11e3f1f8ed71bea0981e"
+    },
+    "hospede_id": {
+      "$oid": "fea9a6cc59ab0f97ac2bcfcd"
+    },
+    "hospede_snapshot": {
+      "nome": "Mariana Souza",
+      "email": "mariana.souza@email.com",
+      "telefone": "+55 21 99876-1234"
+    },
+    "quarto_id": {
+      "$oid": "c4c6b715bc17e700c4a2ef0d"
+    },
+    "quarto_snapshot": {
+      "numero": "504",
+      "tipo": "suite",
+      "preco_diaria": 1050.0
+    },
+    "data_checkin": {
+      "$date": "2026-09-01T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-09-07T00:00:00Z"
+    },
+    "num_noites": 6,
+    "num_hospedes": 2,
+    "valor_total": 6300.0,
+    "status": "concluida",
+    "canal": "agencia",
+    "codigo_reserva": "HN-2026-00117",
+    "observacoes": "Comemoração de aniversário.",
+    "data_criacao": {
+      "$date": "2026-08-04T17:48:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-08-04T17:48:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2a5a671817276963c125a56c"
+    },
+    "hospede_id": {
+      "$oid": "5734172736c64a5d05fac01c"
+    },
+    "hospede_snapshot": {
+      "nome": "Felipe Araújo",
+      "email": "felipe.araujo@email.com",
+      "telefone": "+55 85 91998-6138"
+    },
+    "quarto_id": {
+      "$oid": "20b23d390d5325a1ae9a0248"
+    },
+    "quarto_snapshot": {
+      "numero": "203",
+      "tipo": "standard",
+      "preco_diaria": 240.0
+    },
+    "data_checkin": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-09-13T00:00:00Z"
+    },
+    "num_noites": 4,
+    "num_hospedes": 2,
+    "valor_total": 960.0,
+    "status": "concluida",
+    "canal": "site_proprio",
+    "codigo_reserva": "HN-2026-00118",
+    "observacoes": "Alergia a amendoim: evitar no café da manhã.",
+    "data_criacao": {
+      "$date": "2026-08-17T19:19:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-08-17T19:19:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a5f141d3bf5d9b2eded0030e"
+    },
+    "hospede_id": {
+      "$oid": "c6b4d52ed88b877fd8e82a0a"
+    },
+    "hospede_snapshot": {
+      "nome": "Gabriel Almeida",
+      "email": "gabriel.almeida@email.com",
+      "telefone": "+55 41 96107-7537"
+    },
+    "quarto_id": {
+      "$oid": "8205c9a575cdd365e8a87545"
+    },
+    "quarto_snapshot": {
+      "numero": "503",
+      "tipo": "suite",
+      "preco_diaria": 1100.0
+    },
+    "data_checkin": {
+      "$date": "2026-06-02T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-06-04T00:00:00Z"
+    },
+    "num_noites": 2,
+    "num_hospedes": 1,
+    "valor_total": 2200.0,
+    "status": "cancelada",
+    "canal": "telefone",
+    "codigo_reserva": "HN-2026-00119",
+    "observacoes": "Cancelada por mudança de planos.",
+    "data_criacao": {
+      "$date": "2026-05-22T16:58:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-05-22T16:58:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f9e3a489529c2a2ab725251c"
+    },
+    "hospede_id": {
+      "$oid": "05f61134b92c319d4191de96"
+    },
+    "hospede_snapshot": {
+      "nome": "John Smith",
+      "email": "john.smith@mail.com",
+      "telefone": "+1 305 555 0192"
+    },
+    "quarto_id": {
+      "$oid": "b389f92aefee4e9432d5a5f4"
+    },
+    "quarto_snapshot": {
+      "numero": "603",
+      "tipo": "suite",
+      "preco_diaria": 990.0
+    },
+    "data_checkin": {
+      "$date": "2026-01-05T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-01-09T00:00:00Z"
+    },
+    "num_noites": 4,
+    "num_hospedes": 4,
+    "valor_total": 3960.0,
+    "status": "concluida",
+    "canal": "booking",
+    "codigo_reserva": "HN-2026-00120",
+    "observacoes": "Viagem a trabalho.",
+    "data_criacao": {
+      "$date": "2025-12-10T17:44:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2025-12-10T17:44:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "eddd164dcd11a73abd4c591f"
+    },
+    "hospede_id": {
+      "$oid": "de47ede5783065ce32b6b4d5"
+    },
+    "hospede_snapshot": {
+      "nome": "Patrícia Nunes",
+      "email": "patricia.nunes@email.com",
+      "telefone": "+55 21 91993-7596"
+    },
+    "quarto_id": {
+      "$oid": "7fac430634f131d20be6a884"
+    },
+    "quarto_snapshot": {
+      "numero": "202",
+      "tipo": "standard",
+      "preco_diaria": 300.0
+    },
+    "data_checkin": {
+      "$date": "2026-01-26T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-01-27T00:00:00Z"
+    },
+    "num_noites": 1,
+    "num_hospedes": 1,
+    "valor_total": 300.0,
+    "status": "concluida",
+    "canal": "app",
+    "codigo_reserva": "HN-2026-00121",
+    "data_criacao": {
+      "$date": "2025-12-19T14:36:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2025-12-19T14:36:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "800720e210824aba8c5bb4dd"
+    },
+    "hospede_id": {
+      "$oid": "6311dc039a6c943bb5d6523e"
+    },
+    "hospede_snapshot": {
+      "nome": "Marcelo Teixeira",
+      "email": "marcelo.teixeira@email.com",
+      "telefone": "+55 61 94910-5351"
+    },
+    "quarto_id": {
+      "$oid": "864c35f72c21143c70bcac78"
+    },
+    "quarto_snapshot": {
+      "numero": "302",
+      "tipo": "luxo",
+      "preco_diaria": 560.0
+    },
+    "data_checkin": {
+      "$date": "2026-03-13T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "num_noites": 4,
+    "num_hospedes": 2,
+    "valor_total": 2240.0,
+    "status": "concluida",
+    "canal": "agencia",
+    "codigo_reserva": "HN-2026-00122",
+    "data_criacao": {
+      "$date": "2026-02-18T19:18:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-02-18T19:18:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "70d42c3aabff346f090b1f79"
+    },
+    "hospede_id": {
+      "$oid": "c6b4d52ed88b877fd8e82a0a"
+    },
+    "hospede_snapshot": {
+      "nome": "Gabriel Almeida",
+      "email": "gabriel.almeida@email.com",
+      "telefone": "+55 41 96107-7537"
+    },
+    "quarto_id": {
+      "$oid": "7fac430634f131d20be6a884"
+    },
+    "quarto_snapshot": {
+      "numero": "202",
+      "tipo": "standard",
+      "preco_diaria": 300.0
+    },
+    "data_checkin": {
+      "$date": "2026-08-09T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-08-13T00:00:00Z"
+    },
+    "num_noites": 4,
+    "num_hospedes": 1,
+    "valor_total": 1200.0,
+    "status": "concluida",
+    "canal": "telefone",
+    "codigo_reserva": "HN-2026-00123",
+    "data_criacao": {
+      "$date": "2026-07-31T10:48:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-07-31T10:48:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d2238938374bdc69807e61e0"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "hospede_snapshot": {
+      "nome": "Rafael Costa",
+      "email": "rafael.costa@email.com",
+      "telefone": "+55 41 97777-6666"
+    },
+    "quarto_id": {
+      "$oid": "c4c6b715bc17e700c4a2ef0d"
+    },
+    "quarto_snapshot": {
+      "numero": "504",
+      "tipo": "suite",
+      "preco_diaria": 1050.0
+    },
+    "data_checkin": {
+      "$date": "2026-04-24T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-04-30T00:00:00Z"
+    },
+    "num_noites": 6,
+    "num_hospedes": 4,
+    "valor_total": 6300.0,
+    "status": "cancelada",
+    "canal": "site_proprio",
+    "codigo_reserva": "HN-2026-00124",
+    "observacoes": "Cancelada por mudança de planos.",
+    "data_criacao": {
+      "$date": "2026-03-19T17:26:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-03-19T17:26:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ce86152540e85459dd8fc1d5"
+    },
+    "hospede_id": {
+      "$oid": "4ee5872c8a1db05218eaae69"
+    },
+    "hospede_snapshot": {
+      "nome": "Camila Rocha",
+      "email": "camila.rocha@email.com",
+      "telefone": "+55 81 91053-5315"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "quarto_snapshot": {
+      "numero": "402",
+      "tipo": "luxo",
+      "preco_diaria": 500.0
+    },
+    "data_checkin": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-01-14T00:00:00Z"
+    },
+    "num_noites": 2,
+    "num_hospedes": 2,
+    "valor_total": 1000.0,
+    "status": "concluida",
+    "canal": "site_proprio",
+    "codigo_reserva": "HN-2026-00125",
+    "data_criacao": {
+      "$date": "2025-12-15T16:57:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2025-12-15T16:57:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f0bbace64602d1ae51ea2fe7"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "hospede_snapshot": {
+      "nome": "Carlos Andrade",
+      "email": "carlos.andrade@email.com",
+      "telefone": "+55 11 98765-4321"
+    },
+    "quarto_id": {
+      "$oid": "bdceb719af53631384373c65"
+    },
+    "quarto_snapshot": {
+      "numero": "502",
+      "tipo": "suite",
+      "preco_diaria": 850.0
+    },
+    "data_checkin": {
+      "$date": "2026-10-18T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-10-21T00:00:00Z"
+    },
+    "num_noites": 3,
+    "num_hospedes": 2,
+    "valor_total": 2550.0,
+    "status": "concluida",
+    "canal": "site_proprio",
+    "codigo_reserva": "HN-2026-00126",
+    "data_criacao": {
+      "$date": "2026-09-21T20:50:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-09-21T20:50:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8b17a581fb9a0a872df3d92b"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "hospede_snapshot": {
+      "nome": "Rafael Costa",
+      "email": "rafael.costa@email.com",
+      "telefone": "+55 41 97777-6666"
+    },
+    "quarto_id": {
+      "$oid": "bdcc1cbe042596ab21520c94"
+    },
+    "quarto_snapshot": {
+      "numero": "602",
+      "tipo": "suite",
+      "preco_diaria": 820.0
+    },
+    "data_checkin": {
+      "$date": "2026-01-03T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-01-06T00:00:00Z"
+    },
+    "num_noites": 3,
+    "num_hospedes": 3,
+    "valor_total": 2460.0,
+    "status": "concluida",
+    "canal": "agencia",
+    "codigo_reserva": "HN-2026-00127",
+    "observacoes": "Viagem a trabalho.",
+    "data_criacao": {
+      "$date": "2025-11-24T19:20:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2025-11-24T19:20:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "21c73ab3c139f9e2d316ad1e"
+    },
+    "hospede_id": {
+      "$oid": "a10538fa693b6b5b53ce5c16"
+    },
+    "hospede_snapshot": {
+      "nome": "Vanessa Dias",
+      "email": "vanessa.dias@email.com",
+      "telefone": "+55 41 97615-2964"
+    },
+    "quarto_id": {
+      "$oid": "2ab0887006ceb28b1e2a7162"
+    },
+    "quarto_snapshot": {
+      "numero": "601",
+      "tipo": "suite",
+      "preco_diaria": 1050.0
+    },
+    "data_checkin": {
+      "$date": "2026-08-18T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-08-19T00:00:00Z"
+    },
+    "num_noites": 1,
+    "num_hospedes": 3,
+    "valor_total": 1050.0,
+    "status": "cancelada",
+    "canal": "site_proprio",
+    "codigo_reserva": "HN-2026-00128",
+    "observacoes": "Cancelada por problema na viagem.",
+    "data_criacao": {
+      "$date": "2026-07-18T13:55:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-07-18T13:55:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4ce434927b4d28405cf3d00c"
+    },
+    "hospede_id": {
+      "$oid": "e355b734d867fc64f4a869fe"
+    },
+    "hospede_snapshot": {
+      "nome": "Isabela Moreira",
+      "email": "isabela.moreira@email.com",
+      "telefone": "+55 51 93170-6718"
+    },
+    "quarto_id": {
+      "$oid": "13ec43cb18053a2e08fc51f2"
+    },
+    "quarto_snapshot": {
+      "numero": "102",
+      "tipo": "standard",
+      "preco_diaria": 280.0
+    },
+    "data_checkin": {
+      "$date": "2026-10-14T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-10-20T00:00:00Z"
+    },
+    "num_noites": 6,
+    "num_hospedes": 2,
+    "valor_total": 1680.0,
+    "status": "concluida",
+    "canal": "booking",
+    "codigo_reserva": "HN-2026-00129",
+    "data_criacao": {
+      "$date": "2026-10-03T17:32:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-10-03T17:32:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e0322773eead66a93c3181ae"
+    },
+    "hospede_id": {
+      "$oid": "e355b734d867fc64f4a869fe"
+    },
+    "hospede_snapshot": {
+      "nome": "Isabela Moreira",
+      "email": "isabela.moreira@email.com",
+      "telefone": "+55 51 93170-6718"
+    },
+    "quarto_id": {
+      "$oid": "b389f92aefee4e9432d5a5f4"
+    },
+    "quarto_snapshot": {
+      "numero": "603",
+      "tipo": "suite",
+      "preco_diaria": 990.0
+    },
+    "data_checkin": {
+      "$date": "2026-08-20T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-08-26T00:00:00Z"
+    },
+    "num_noites": 6,
+    "num_hospedes": 3,
+    "valor_total": 5940.0,
+    "status": "concluida",
+    "canal": "site_proprio",
+    "codigo_reserva": "HN-2026-00130",
+    "observacoes": "Chegada prevista para o fim da tarde.",
+    "data_criacao": {
+      "$date": "2026-08-04T12:44:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-08-04T12:44:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8df2ff490da6ffb4acc64778"
+    },
+    "hospede_id": {
+      "$oid": "a6bcca31ccdcb96eeeea9b35"
+    },
+    "hospede_snapshot": {
+      "nome": "Fernanda Lima",
+      "email": "fernanda.lima@email.com",
+      "telefone": "+55 31 98888-7777"
+    },
+    "quarto_id": {
+      "$oid": "808098038e3c50d1dc61e43b"
+    },
+    "quarto_snapshot": {
+      "numero": "103",
+      "tipo": "standard",
+      "preco_diaria": 300.0
+    },
+    "data_checkin": {
+      "$date": "2026-07-14T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-07-17T00:00:00Z"
+    },
+    "num_noites": 3,
+    "num_hospedes": 2,
+    "valor_total": 900.0,
+    "status": "concluida",
+    "canal": "telefone",
+    "codigo_reserva": "HN-2026-00131",
+    "data_criacao": {
+      "$date": "2026-07-02T12:43:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-07-02T12:43:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "47371d7f1a183caae9ae7178"
+    },
+    "hospede_id": {
+      "$oid": "3d7aa75138d2147899fb422e"
+    },
+    "hospede_snapshot": {
+      "nome": "Eduardo Ribeiro",
+      "email": "eduardo.ribeiro@email.com",
+      "telefone": "+55 31 98744-4981"
+    },
+    "quarto_id": {
+      "$oid": "14246d42d818e864d76a8bc3"
+    },
+    "quarto_snapshot": {
+      "numero": "401",
+      "tipo": "luxo",
+      "preco_diaria": 480.0
+    },
+    "data_checkin": {
+      "$date": "2026-07-23T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-07-29T00:00:00Z"
+    },
+    "num_noites": 6,
+    "num_hospedes": 1,
+    "valor_total": 2880.0,
+    "status": "concluida",
+    "canal": "booking",
+    "codigo_reserva": "HN-2026-00132",
+    "observacoes": "Comemoração de aniversário.",
+    "data_criacao": {
+      "$date": "2026-07-08T20:39:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-07-08T20:39:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "55007f8424095b285a0e0a0c"
+    },
+    "hospede_id": {
+      "$oid": "6311dc039a6c943bb5d6523e"
+    },
+    "hospede_snapshot": {
+      "nome": "Marcelo Teixeira",
+      "email": "marcelo.teixeira@email.com",
+      "telefone": "+55 61 94910-5351"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "quarto_snapshot": {
+      "numero": "402",
+      "tipo": "luxo",
+      "preco_diaria": 500.0
+    },
+    "data_checkin": {
+      "$date": "2026-05-19T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-05-24T00:00:00Z"
+    },
+    "num_noites": 5,
+    "num_hospedes": 3,
+    "valor_total": 2500.0,
+    "status": "concluida",
+    "canal": "agencia",
+    "codigo_reserva": "HN-2026-00133",
+    "observacoes": "Solicita andar alto.",
+    "data_criacao": {
+      "$date": "2026-04-24T21:40:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-04-24T21:40:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a5be4a3dc6505ab695dc97cd"
+    },
+    "hospede_id": {
+      "$oid": "891c72b86a9ba7179c8411d8"
+    },
+    "hospede_snapshot": {
+      "nome": "Beatriz Oliveira",
+      "email": "beatriz.oliveira@email.com",
+      "telefone": "+55 71 96930-4593"
+    },
+    "quarto_id": {
+      "$oid": "1bce6bf96171059160ae74fd"
+    },
+    "quarto_snapshot": {
+      "numero": "301",
+      "tipo": "luxo",
+      "preco_diaria": 520.0
+    },
+    "data_checkin": {
+      "$date": "2026-05-26T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-05-29T00:00:00Z"
+    },
+    "num_noites": 3,
+    "num_hospedes": 1,
+    "valor_total": 1560.0,
+    "status": "concluida",
+    "canal": "app",
+    "codigo_reserva": "HN-2026-00134",
+    "observacoes": "Solicita berço.",
+    "data_criacao": {
+      "$date": "2026-04-23T15:33:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-04-23T15:33:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e5b7fa955ba15fc85850ab3c"
+    },
+    "hospede_id": {
+      "$oid": "46a9ad38242ed89c10c9277f"
+    },
+    "hospede_snapshot": {
+      "nome": "Daniela Castro",
+      "email": "daniela.castro@email.com",
+      "telefone": "+55 51 99280-9004"
+    },
+    "quarto_id": {
+      "$oid": "20b23d390d5325a1ae9a0248"
+    },
+    "quarto_snapshot": {
+      "numero": "203",
+      "tipo": "standard",
+      "preco_diaria": 240.0
+    },
+    "data_checkin": {
+      "$date": "2026-04-13T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "num_noites": 6,
+    "num_hospedes": 3,
+    "valor_total": 1440.0,
+    "status": "concluida",
+    "canal": "agencia",
+    "codigo_reserva": "HN-2026-00135",
+    "observacoes": "Viagem a trabalho.",
+    "data_criacao": {
+      "$date": "2026-04-03T18:42:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-04-03T18:42:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "edbd947d9bf3560bd70641bd"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "hospede_snapshot": {
+      "nome": "Rafael Costa",
+      "email": "rafael.costa@email.com",
+      "telefone": "+55 41 97777-6666"
+    },
+    "quarto_id": {
+      "$oid": "ce1f8c947fca29b4bedeb74f"
+    },
+    "quarto_snapshot": {
+      "numero": "501",
+      "tipo": "suite",
+      "preco_diaria": 980.0
+    },
+    "data_checkin": {
+      "$date": "2026-01-11T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-01-16T00:00:00Z"
+    },
+    "num_noites": 5,
+    "num_hospedes": 2,
+    "valor_total": 4900.0,
+    "status": "concluida",
+    "canal": "app",
+    "codigo_reserva": "HN-2026-00136",
+    "data_criacao": {
+      "$date": "2025-12-27T19:28:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2025-12-27T19:28:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0d146907cc416f9ce893be27"
+    },
+    "hospede_id": {
+      "$oid": "04d44a0011d579d9f4c2ff89"
+    },
+    "hospede_snapshot": {
+      "nome": "Carlos Gutierrez",
+      "email": "carlos.gutierrez@email.com",
+      "telefone": "+598 2 555 6143"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "quarto_snapshot": {
+      "numero": "402",
+      "tipo": "luxo",
+      "preco_diaria": 500.0
+    },
+    "data_checkin": {
+      "$date": "2026-08-03T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-08-05T00:00:00Z"
+    },
+    "num_noites": 2,
+    "num_hospedes": 1,
+    "valor_total": 1000.0,
+    "status": "concluida",
+    "canal": "telefone",
+    "codigo_reserva": "HN-2026-00137",
+    "observacoes": "Solicita andar alto.",
+    "data_criacao": {
+      "$date": "2026-07-26T14:32:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-07-26T14:32:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "54dfa8d780dbeb37c5c67b8a"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "hospede_snapshot": {
+      "nome": "Carlos Andrade",
+      "email": "carlos.andrade@email.com",
+      "telefone": "+55 11 98765-4321"
+    },
+    "quarto_id": {
+      "$oid": "3e690febd97ec02db55f9e01"
+    },
+    "quarto_snapshot": {
+      "numero": "403",
+      "tipo": "luxo",
+      "preco_diaria": 500.0
+    },
+    "data_checkin": {
+      "$date": "2026-05-05T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-05-11T00:00:00Z"
+    },
+    "num_noites": 6,
+    "num_hospedes": 1,
+    "valor_total": 3000.0,
+    "status": "concluida",
+    "canal": "site_proprio",
+    "codigo_reserva": "HN-2026-00138",
+    "data_criacao": {
+      "$date": "2026-04-14T11:53:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-04-14T11:53:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "dff79e298d69da03d61420d7"
+    },
+    "hospede_id": {
+      "$oid": "6311dc039a6c943bb5d6523e"
+    },
+    "hospede_snapshot": {
+      "nome": "Marcelo Teixeira",
+      "email": "marcelo.teixeira@email.com",
+      "telefone": "+55 61 94910-5351"
+    },
+    "quarto_id": {
+      "$oid": "9fe85b8ec24c32f17e980096"
+    },
+    "quarto_snapshot": {
+      "numero": "604",
+      "tipo": "suite",
+      "preco_diaria": 990.0
+    },
+    "data_checkin": {
+      "$date": "2026-08-12T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-08-14T00:00:00Z"
+    },
+    "num_noites": 2,
+    "num_hospedes": 3,
+    "valor_total": 1980.0,
+    "status": "cancelada",
+    "canal": "app",
+    "codigo_reserva": "HN-2026-00139",
+    "observacoes": "Cancelada por mudança de planos.",
+    "data_criacao": {
+      "$date": "2026-08-05T13:34:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-08-05T13:34:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8d2d28e8cb28825a5093972f"
+    },
+    "hospede_id": {
+      "$oid": "b09607ce657849633bd103ab"
+    },
+    "hospede_snapshot": {
+      "nome": "Renata Carvalho",
+      "email": "renata.carvalho@email.com",
+      "telefone": "+55 11 97396-5345"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "quarto_snapshot": {
+      "numero": "402",
+      "tipo": "luxo",
+      "preco_diaria": 500.0
+    },
+    "data_checkin": {
+      "$date": "2026-08-06T00:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-08-12T00:00:00Z"
+    },
+    "num_noites": 6,
+    "num_hospedes": 3,
+    "valor_total": 3000.0,
+    "status": "concluida",
+    "canal": "app",
+    "codigo_reserva": "HN-2026-00140",
+    "observacoes": "Comemoração de aniversário.",
+    "data_criacao": {
+      "$date": "2026-07-24T09:45:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-07-24T09:45:00Z"
+    }
+  }
+]

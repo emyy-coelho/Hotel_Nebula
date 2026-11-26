@@ -1,0 +1,826 @@
+[
+  {
+    "_id": {
+      "$oid": "4a166d1cd71dbafeb20904fc"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "hospedagem_id": {
+      "$oid": "d5ed45431209aa6dde67ee06"
+    },
+    "quarto_id": {
+      "$oid": "3dbd472fa8bc309647d34c2a"
+    },
+    "data_avaliacao": {
+      "$date": "2026-04-14T18:00:00Z"
+    },
+    "nota_geral": 4.5,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 5,
+      "conforto": 4,
+      "custo_beneficio": 4,
+      "localizacao": 5
+    },
+    "comentario": "Ótima estadia! A equipe foi muito atenciosa e o quarto estava impecável.",
+    "resposta_hotel": {
+      "texto": "Obrigado pelo feedback, Carlos! Esperamos recebê-lo novamente em breve.",
+      "data": {
+        "$date": "2026-04-15T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "874c14f18be9af3613b1a7d8"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "eb5df8ae5c03f9c8adc21e31"
+    },
+    "hospede_id": {
+      "$oid": "fea9a6cc59ab0f97ac2bcfcd"
+    },
+    "hospedagem_id": {
+      "$oid": "1692fbe183231112294c3ea6"
+    },
+    "quarto_id": {
+      "$oid": "1bce6bf96171059160ae74fd"
+    },
+    "data_avaliacao": {
+      "$date": "2026-02-17T18:00:00Z"
+    },
+    "nota_geral": 5.0,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 5,
+      "conforto": 5
+    },
+    "comentario": "Vista linda e banheira maravilhosa! Voltaremos.",
+    "resposta_hotel": {
+      "texto": "Ficamos muito felizes, Mariana! Até a próxima.",
+      "data": {
+        "$date": "2026-02-18T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "d490d11296a822261a261d0a"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "67472ab8c97a5db9c359e091"
+    },
+    "hospede_id": {
+      "$oid": "05f61134b92c319d4191de96"
+    },
+    "hospedagem_id": {
+      "$oid": "76e50feb87821386022d453d"
+    },
+    "quarto_id": {
+      "$oid": "13ec43cb18053a2e08fc51f2"
+    },
+    "data_avaliacao": {
+      "$date": "2026-03-09T18:00:00Z"
+    },
+    "nota_geral": 3.0,
+    "notas_detalhadas": {
+      "limpeza": 4,
+      "atendimento": 3,
+      "conforto": 3,
+      "custo_beneficio": 3
+    },
+    "comentario": "Quarto bom, mas o wifi ficou instável durante a estadia.",
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "2b621cc36f8e97509c017dce"
+    },
+    "hospede_id": {
+      "$oid": "fea9a6cc59ab0f97ac2bcfcd"
+    },
+    "hospedagem_id": {
+      "$oid": "9b769b01264fd9d2fbd14f84"
+    },
+    "quarto_id": {
+      "$oid": "ce1f8c947fca29b4bedeb74f"
+    },
+    "data_avaliacao": {
+      "$date": "2026-04-21T18:00:00Z"
+    },
+    "nota_geral": 5.0,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 5,
+      "conforto": 5,
+      "localizacao": 5
+    },
+    "comentario": "Suíte incrível, vale cada centavo.",
+    "resposta_hotel": {
+      "texto": "Muito obrigado, Mariana! Foi um prazer receber vocês.",
+      "data": {
+        "$date": "2026-04-22T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "874c14f18be9af3613b1a7d8"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "bc4164ac5a3045508e91b964"
+    },
+    "hospede_id": {
+      "$oid": "a6bcca31ccdcb96eeeea9b35"
+    },
+    "hospedagem_id": {
+      "$oid": "4d06207e373aed91e1f17c03"
+    },
+    "quarto_id": {
+      "$oid": "864c35f72c21143c70bcac78"
+    },
+    "data_avaliacao": {
+      "$date": "2026-04-27T18:00:00Z"
+    },
+    "nota_geral": 4.0,
+    "notas_detalhadas": {
+      "limpeza": 4,
+      "atendimento": 4,
+      "conforto": 4
+    },
+    "comentario": "Ótimo café da manhã e varanda agradável.",
+    "resposta_hotel": {
+      "texto": "Agradecemos a avaliação, Fernanda!",
+      "data": {
+        "$date": "2026-04-28T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "d490d11296a822261a261d0a"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "7df2bbcaea5a87c39c358aba"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "hospedagem_id": {
+      "$oid": "49d63826056a915628869939"
+    },
+    "quarto_id": {
+      "$oid": "bdceb719af53631384373c65"
+    },
+    "data_avaliacao": {
+      "$date": "2026-05-06T18:00:00Z"
+    },
+    "nota_geral": 4.0,
+    "notas_detalhadas": {
+      "limpeza": 4,
+      "atendimento": 5,
+      "conforto": 4,
+      "custo_beneficio": 4
+    },
+    "comentario": "Quarto confortável para a família.",
+    "resposta_hotel": {
+      "texto": "Obrigado, Rafael! Esperamos vocês novamente.",
+      "data": {
+        "$date": "2026-05-07T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "e40d2c4c34d6ba112c9a76a3"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "3e5cd5a88dcd5a08323c816c"
+    },
+    "hospede_id": {
+      "$oid": "784718ad67ffad151798b3a7"
+    },
+    "hospedagem_id": {
+      "$oid": "780ab80344369a3bf46c628c"
+    },
+    "quarto_id": {
+      "$oid": "3e690febd97ec02db55f9e01"
+    },
+    "data_avaliacao": {
+      "$date": "2026-04-22T18:00:00Z"
+    },
+    "nota_geral": 5.0,
+    "notas_detalhadas": {
+      "atendimento": 5,
+      "conforto": 5,
+      "limpeza": 5
+    },
+    "comentario": "Estadia razoável, o quarto poderia ser melhor.",
+    "resposta_hotel": {
+      "texto": "Obrigado pelo feedback, Larissa! Esperamos recebê-lo novamente.",
+      "data": {
+        "$date": "2026-04-23T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "874c14f18be9af3613b1a7d8"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "dae6e4db9ea4adacd36ee34a"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "hospedagem_id": {
+      "$oid": "5e417a21a5173e82f37c355a"
+    },
+    "quarto_id": {
+      "$oid": "7fac430634f131d20be6a884"
+    },
+    "data_avaliacao": {
+      "$date": "2026-03-07T18:00:00Z"
+    },
+    "nota_geral": 5.0,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "custo_beneficio": 5,
+      "conforto": 5
+    },
+    "comentario": "Bom custo-benefício, mas houve demora no atendimento.",
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "cd7bc950252aae917809ad43"
+    },
+    "hospede_id": {
+      "$oid": "45f3bed8b228cdd4ec6726a4"
+    },
+    "hospedagem_id": {
+      "$oid": "7a12e492ed373a38be673652"
+    },
+    "quarto_id": {
+      "$oid": "2ab0887006ceb28b1e2a7162"
+    },
+    "data_avaliacao": {
+      "$date": "2026-05-18T18:00:00Z"
+    },
+    "nota_geral": 4.0,
+    "notas_detalhadas": {
+      "limpeza": 4,
+      "atendimento": 3,
+      "custo_beneficio": 4,
+      "conforto": 4
+    },
+    "comentario": "Estadia razoável, o quarto poderia ser melhor.",
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "9f058d64849dc75d22ba576d"
+    },
+    "hospede_id": {
+      "$oid": "45f3bed8b228cdd4ec6726a4"
+    },
+    "hospedagem_id": {
+      "$oid": "82288c5b9ddda412e98b24ca"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "data_avaliacao": {
+      "$date": "2026-07-22T18:00:00Z"
+    },
+    "nota_geral": 4.0,
+    "notas_detalhadas": {
+      "limpeza": 4,
+      "custo_beneficio": 4,
+      "atendimento": 3,
+      "conforto": 4
+    },
+    "comentario": "Bom custo-benefício, mas houve demora no atendimento.",
+    "resposta_hotel": {
+      "texto": "Obrigado pelo feedback, Juliana! Esperamos recebê-lo novamente.",
+      "data": {
+        "$date": "2026-07-23T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "d490d11296a822261a261d0a"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "e09085c15ad8d6735c7bc762"
+    },
+    "hospede_id": {
+      "$oid": "fea9a6cc59ab0f97ac2bcfcd"
+    },
+    "hospedagem_id": {
+      "$oid": "2d07d7273d2f09062d91d4f0"
+    },
+    "quarto_id": {
+      "$oid": "c4c6b715bc17e700c4a2ef0d"
+    },
+    "data_avaliacao": {
+      "$date": "2026-09-07T18:00:00Z"
+    },
+    "nota_geral": 4.0,
+    "notas_detalhadas": {
+      "conforto": 4,
+      "custo_beneficio": 5,
+      "atendimento": 4,
+      "localizacao": 4,
+      "limpeza": 4
+    },
+    "comentario": "Estadia razoável, o quarto poderia ser melhor.",
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "7fb8f5ada66b1079e4d6d6ff"
+    },
+    "hospede_id": {
+      "$oid": "05f61134b92c319d4191de96"
+    },
+    "hospedagem_id": {
+      "$oid": "fd52016d50bd5f2f9a8d0930"
+    },
+    "quarto_id": {
+      "$oid": "b389f92aefee4e9432d5a5f4"
+    },
+    "data_avaliacao": {
+      "$date": "2026-01-09T18:00:00Z"
+    },
+    "nota_geral": 4.5,
+    "notas_detalhadas": {
+      "limpeza": 4,
+      "custo_beneficio": 5,
+      "localizacao": 5
+    },
+    "comentario": "Estadia razoável, o quarto poderia ser melhor.",
+    "resposta_hotel": {
+      "texto": "Obrigado pelo feedback, John! Esperamos recebê-lo novamente.",
+      "data": {
+        "$date": "2026-01-10T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "e40d2c4c34d6ba112c9a76a3"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "90dff5b0227b57bcd0d51952"
+    },
+    "hospede_id": {
+      "$oid": "de47ede5783065ce32b6b4d5"
+    },
+    "hospedagem_id": {
+      "$oid": "041fee780a64bded9bbe5982"
+    },
+    "quarto_id": {
+      "$oid": "7fac430634f131d20be6a884"
+    },
+    "data_avaliacao": {
+      "$date": "2026-01-27T18:00:00Z"
+    },
+    "nota_geral": 3.0,
+    "notas_detalhadas": {
+      "localizacao": 4,
+      "atendimento": 3,
+      "limpeza": 3,
+      "custo_beneficio": 3,
+      "conforto": 3
+    },
+    "comentario": "Bom custo-benefício, mas houve demora no atendimento.",
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "9ae9cea114acbac5fc2e1421"
+    },
+    "hospede_id": {
+      "$oid": "6311dc039a6c943bb5d6523e"
+    },
+    "hospedagem_id": {
+      "$oid": "c3f8ce497c12c9d66f5000a9"
+    },
+    "quarto_id": {
+      "$oid": "864c35f72c21143c70bcac78"
+    },
+    "data_avaliacao": {
+      "$date": "2026-03-17T18:00:00Z"
+    },
+    "nota_geral": 5.0,
+    "notas_detalhadas": {
+      "conforto": 5,
+      "custo_beneficio": 5,
+      "limpeza": 5,
+      "localizacao": 5
+    },
+    "comentario": "Bom custo-benefício, mas houve demora no atendimento.",
+    "resposta_hotel": {
+      "texto": "Obrigado pelo feedback, Marcelo! Esperamos recebê-lo novamente.",
+      "data": {
+        "$date": "2026-03-18T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "d490d11296a822261a261d0a"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "de0fe2b4b8da5cdfbb8feeb6"
+    },
+    "hospede_id": {
+      "$oid": "c6b4d52ed88b877fd8e82a0a"
+    },
+    "hospedagem_id": {
+      "$oid": "deab58ddbb347710d88101bb"
+    },
+    "quarto_id": {
+      "$oid": "7fac430634f131d20be6a884"
+    },
+    "data_avaliacao": {
+      "$date": "2026-08-13T18:00:00Z"
+    },
+    "nota_geral": 4.5,
+    "notas_detalhadas": {
+      "conforto": 4,
+      "custo_beneficio": 5,
+      "limpeza": 5
+    },
+    "comentario": "Bom custo-benefício, mas houve demora no atendimento.",
+    "resposta_hotel": {
+      "texto": "Obrigado pelo feedback, Gabriel! Esperamos recebê-lo novamente.",
+      "data": {
+        "$date": "2026-08-14T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "d490d11296a822261a261d0a"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "8cfaa075da03d56dbce8cf58"
+    },
+    "hospede_id": {
+      "$oid": "4ee5872c8a1db05218eaae69"
+    },
+    "hospedagem_id": {
+      "$oid": "d878bed7d35eb2b3b5257a67"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "data_avaliacao": {
+      "$date": "2026-01-14T18:00:00Z"
+    },
+    "nota_geral": 4.5,
+    "notas_detalhadas": {
+      "atendimento": 5,
+      "conforto": 4,
+      "limpeza": 5
+    },
+    "comentario": "Estadia razoável, o quarto poderia ser melhor.",
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "8881a57a5a28fcecd402e9f5"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "hospedagem_id": {
+      "$oid": "657fa7d04907dc69be329968"
+    },
+    "quarto_id": {
+      "$oid": "bdceb719af53631384373c65"
+    },
+    "data_avaliacao": {
+      "$date": "2026-10-21T18:00:00Z"
+    },
+    "nota_geral": 3.0,
+    "notas_detalhadas": {
+      "localizacao": 3,
+      "conforto": 3,
+      "atendimento": 3,
+      "limpeza": 2,
+      "custo_beneficio": 3
+    },
+    "comentario": "Bom custo-benefício, mas houve demora no atendimento.",
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "2b0b35a4dfea1c2effb8ebcc"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "hospedagem_id": {
+      "$oid": "028369b7fadf886e0ce94ff7"
+    },
+    "quarto_id": {
+      "$oid": "bdcc1cbe042596ab21520c94"
+    },
+    "data_avaliacao": {
+      "$date": "2026-01-06T18:00:00Z"
+    },
+    "nota_geral": 3.0,
+    "notas_detalhadas": {
+      "atendimento": 3,
+      "custo_beneficio": 3,
+      "limpeza": 4,
+      "conforto": 3
+    },
+    "comentario": "Bom custo-benefício, mas houve demora no atendimento.",
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "18fa3e3b096105a893af8e2a"
+    },
+    "hospede_id": {
+      "$oid": "e355b734d867fc64f4a869fe"
+    },
+    "hospedagem_id": {
+      "$oid": "8bd65bd8548c1c1045aa6e82"
+    },
+    "quarto_id": {
+      "$oid": "b389f92aefee4e9432d5a5f4"
+    },
+    "data_avaliacao": {
+      "$date": "2026-08-26T18:00:00Z"
+    },
+    "nota_geral": 4.5,
+    "notas_detalhadas": {
+      "localizacao": 5,
+      "limpeza": 4,
+      "custo_beneficio": 4,
+      "conforto": 5,
+      "atendimento": 5
+    },
+    "comentario": "Bom custo-benefício, mas houve demora no atendimento.",
+    "resposta_hotel": {
+      "texto": "Obrigado pelo feedback, Isabela! Esperamos recebê-lo novamente.",
+      "data": {
+        "$date": "2026-08-27T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "d490d11296a822261a261d0a"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "ad24d0d5aa430aa76abe2e92"
+    },
+    "hospede_id": {
+      "$oid": "a6bcca31ccdcb96eeeea9b35"
+    },
+    "hospedagem_id": {
+      "$oid": "c1422a3487e0d1c9ebd0388e"
+    },
+    "quarto_id": {
+      "$oid": "808098038e3c50d1dc61e43b"
+    },
+    "data_avaliacao": {
+      "$date": "2026-07-17T18:00:00Z"
+    },
+    "nota_geral": 3.5,
+    "notas_detalhadas": {
+      "localizacao": 4,
+      "conforto": 3,
+      "limpeza": 4,
+      "atendimento": 3,
+      "custo_beneficio": 4
+    },
+    "comentario": "Bom custo-benefício, mas houve demora no atendimento.",
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "b6373fb2af0e7696c054308a"
+    },
+    "hospede_id": {
+      "$oid": "3d7aa75138d2147899fb422e"
+    },
+    "hospedagem_id": {
+      "$oid": "b7d29554292e72142693627f"
+    },
+    "quarto_id": {
+      "$oid": "14246d42d818e864d76a8bc3"
+    },
+    "data_avaliacao": {
+      "$date": "2026-07-29T18:00:00Z"
+    },
+    "nota_geral": 4.0,
+    "notas_detalhadas": {
+      "atendimento": 4,
+      "localizacao": 4,
+      "limpeza": 5,
+      "conforto": 4,
+      "custo_beneficio": 3
+    },
+    "comentario": "Bom custo-benefício, mas houve demora no atendimento.",
+    "resposta_hotel": {
+      "texto": "Obrigado pelo feedback, Eduardo! Esperamos recebê-lo novamente.",
+      "data": {
+        "$date": "2026-07-30T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "e40d2c4c34d6ba112c9a76a3"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "3d2de6617dd3f847dc4cea08"
+    },
+    "hospede_id": {
+      "$oid": "6311dc039a6c943bb5d6523e"
+    },
+    "hospedagem_id": {
+      "$oid": "c82a05c414885aed12295aa3"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "data_avaliacao": {
+      "$date": "2026-05-24T18:00:00Z"
+    },
+    "nota_geral": 5.0,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "custo_beneficio": 5,
+      "atendimento": 5,
+      "localizacao": 5,
+      "conforto": 5
+    },
+    "comentario": "Estadia razoável, o quarto poderia ser melhor.",
+    "resposta_hotel": {
+      "texto": "Obrigado pelo feedback, Marcelo! Esperamos recebê-lo novamente.",
+      "data": {
+        "$date": "2026-05-25T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "874c14f18be9af3613b1a7d8"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "45dea90761c3ed233c150a4f"
+    },
+    "hospede_id": {
+      "$oid": "891c72b86a9ba7179c8411d8"
+    },
+    "hospedagem_id": {
+      "$oid": "e2dd8179d6ab6ef1772929ae"
+    },
+    "quarto_id": {
+      "$oid": "1bce6bf96171059160ae74fd"
+    },
+    "data_avaliacao": {
+      "$date": "2026-05-29T18:00:00Z"
+    },
+    "nota_geral": 4.0,
+    "notas_detalhadas": {
+      "localizacao": 4,
+      "atendimento": 4,
+      "custo_beneficio": 4,
+      "limpeza": 4,
+      "conforto": 5
+    },
+    "comentario": "Estadia razoável, o quarto poderia ser melhor.",
+    "resposta_hotel": {
+      "texto": "Obrigado pelo feedback, Beatriz! Esperamos recebê-lo novamente.",
+      "data": {
+        "$date": "2026-05-30T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "874c14f18be9af3613b1a7d8"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "7883d93c046bf3ad2ae28e02"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "hospedagem_id": {
+      "$oid": "875bf4c0fca3519e6833f46d"
+    },
+    "quarto_id": {
+      "$oid": "ce1f8c947fca29b4bedeb74f"
+    },
+    "data_avaliacao": {
+      "$date": "2026-01-16T18:00:00Z"
+    },
+    "nota_geral": 5.0,
+    "notas_detalhadas": {
+      "custo_beneficio": 5,
+      "conforto": 4,
+      "localizacao": 5,
+      "limpeza": 5,
+      "atendimento": 5
+    },
+    "comentario": "Estadia razoável, o quarto poderia ser melhor.",
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "09ca0c7df4a7b8601f1df972"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "hospedagem_id": {
+      "$oid": "9c13ffc90ab758d8139cb60e"
+    },
+    "quarto_id": {
+      "$oid": "3e690febd97ec02db55f9e01"
+    },
+    "data_avaliacao": {
+      "$date": "2026-05-11T18:00:00Z"
+    },
+    "nota_geral": 4.0,
+    "notas_detalhadas": {
+      "limpeza": 3,
+      "localizacao": 4,
+      "atendimento": 4,
+      "conforto": 4
+    },
+    "comentario": "Bom custo-benefício, mas houve demora no atendimento.",
+    "resposta_hotel": {
+      "texto": "Obrigado pelo feedback, Carlos! Esperamos recebê-lo novamente.",
+      "data": {
+        "$date": "2026-05-12T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "874c14f18be9af3613b1a7d8"
+      }
+    },
+    "visivel": true
+  },
+  {
+    "_id": {
+      "$oid": "6c30994816d4109c9194c06f"
+    },
+    "hospede_id": {
+      "$oid": "b09607ce657849633bd103ab"
+    },
+    "hospedagem_id": {
+      "$oid": "1e142496c96d6cc5338c2596"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "data_avaliacao": {
+      "$date": "2026-08-12T18:00:00Z"
+    },
+    "nota_geral": 1.5,
+    "notas_detalhadas": {
+      "custo_beneficio": 2,
+      "conforto": 1,
+      "limpeza": 2,
+      "localizacao": 2,
+      "atendimento": 1
+    },
+    "comentario": "Bom custo-benefício, mas houve demora no atendimento.",
+    "resposta_hotel": {
+      "texto": "Lamentamos o ocorrido, Renata. Vamos melhorar nosso serviço.",
+      "data": {
+        "$date": "2026-08-13T10:30:00Z"
+      },
+      "funcionario_id": {
+        "$oid": "d490d11296a822261a261d0a"
+      }
+    },
+    "visivel": true
+  }
+]

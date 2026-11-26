@@ -1,0 +1,2004 @@
+[
+  {
+    "_id": {
+      "$oid": "d5ed45431209aa6dde67ee06"
+    },
+    "reserva_id": {
+      "$oid": "565fd5893276d3da36f0deed"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "quarto_id": {
+      "$oid": "3dbd472fa8bc309647d34c2a"
+    },
+    "checkin_real": {
+      "$date": "2026-04-10T14:35:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-04-14T11:10:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "fe8ea2de4778c39f1fd115e3"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "2c2036465d91df7a569125b8"
+        },
+        "nome": "Café da manhã",
+        "quantidade": 2,
+        "preco_unitario": 45.0,
+        "total": 90.0,
+        "data": {
+          "$date": "2026-04-11T08:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "9e4eddc5ef56f69f341565d9"
+        },
+        "nome": "Lavanderia",
+        "quantidade": 1,
+        "preco_unitario": 80.0,
+        "total": 80.0,
+        "data": {
+          "$date": "2026-04-12T10:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "0009970e63722efbd89314da"
+        },
+        "nome": "Minibar",
+        "quantidade": 3,
+        "preco_unitario": 25.0,
+        "total": 75.0,
+        "data": {
+          "$date": "2026-04-13T22:30:00Z"
+        }
+      }
+    ],
+    "total_servicos": 245.0,
+    "total_diarias": 1000.0,
+    "total_geral": 1245.0,
+    "observacoes": "Hóspede solicitou late checkout, atendido."
+  },
+  {
+    "_id": {
+      "$oid": "46e09c2b54a91ab0454525a3"
+    },
+    "reserva_id": {
+      "$oid": "5d8cf2d9a8c3a0da895ec83c"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "quarto_id": {
+      "$oid": "3dbd472fa8bc309647d34c2a"
+    },
+    "checkin_real": {
+      "$date": "2026-01-10T17:57:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-01-13T12:21:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "2c2036465d91df7a569125b8"
+        },
+        "nome": "Café da manhã",
+        "quantidade": 2,
+        "preco_unitario": 45.0,
+        "total": 90.0,
+        "data": {
+          "$date": "2026-01-11T08:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "0009970e63722efbd89314da"
+        },
+        "nome": "Minibar",
+        "quantidade": 3,
+        "preco_unitario": 25.0,
+        "total": 75.0,
+        "data": {
+          "$date": "2026-01-12T22:00:00Z"
+        }
+      }
+    ],
+    "total_servicos": 165.0,
+    "total_diarias": 750.0,
+    "total_geral": 915.0,
+    "observacoes": "Pediu silêncio no andar."
+  },
+  {
+    "_id": {
+      "$oid": "1692fbe183231112294c3ea6"
+    },
+    "reserva_id": {
+      "$oid": "95a02eb4990ec5c9d95cdabe"
+    },
+    "hospede_id": {
+      "$oid": "fea9a6cc59ab0f97ac2bcfcd"
+    },
+    "quarto_id": {
+      "$oid": "1bce6bf96171059160ae74fd"
+    },
+    "checkin_real": {
+      "$date": "2026-02-14T16:59:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-02-17T11:51:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "3b9c673890fd2f9bd448d23e"
+        },
+        "nome": "Spa",
+        "quantidade": 2,
+        "preco_unitario": 200.0,
+        "total": 400.0,
+        "data": {
+          "$date": "2026-02-15T15:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "e2c2a4d139def08e132bb934"
+        },
+        "nome": "Jantar",
+        "quantidade": 2,
+        "preco_unitario": 95.0,
+        "total": 190.0,
+        "data": {
+          "$date": "2026-02-15T20:00:00Z"
+        }
+      }
+    ],
+    "total_servicos": 590.0,
+    "total_diarias": 1560.0,
+    "total_geral": 2150.0,
+    "observacoes": "Solicitou travesseiros extras."
+  },
+  {
+    "_id": {
+      "$oid": "76e50feb87821386022d453d"
+    },
+    "reserva_id": {
+      "$oid": "2bc47d1bbb745d7b97424eb5"
+    },
+    "hospede_id": {
+      "$oid": "05f61134b92c319d4191de96"
+    },
+    "quarto_id": {
+      "$oid": "13ec43cb18053a2e08fc51f2"
+    },
+    "checkin_real": {
+      "$date": "2026-03-05T18:18:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-03-09T11:06:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "fe8ea2de4778c39f1fd115e3"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "2c2036465d91df7a569125b8"
+        },
+        "nome": "Café da manhã",
+        "quantidade": 3,
+        "preco_unitario": 45.0,
+        "total": 135.0,
+        "data": {
+          "$date": "2026-03-06T08:00:00Z"
+        }
+      }
+    ],
+    "total_servicos": 135.0,
+    "total_diarias": 1120.0,
+    "total_geral": 1255.0,
+    "observacoes": "Solicitou travesseiros extras."
+  },
+  {
+    "_id": {
+      "$oid": "9b769b01264fd9d2fbd14f84"
+    },
+    "reserva_id": {
+      "$oid": "67e67014131ddbc4a230cafb"
+    },
+    "hospede_id": {
+      "$oid": "fea9a6cc59ab0f97ac2bcfcd"
+    },
+    "quarto_id": {
+      "$oid": "ce1f8c947fca29b4bedeb74f"
+    },
+    "checkin_real": {
+      "$date": "2026-04-18T17:38:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-04-21T12:10:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "ed52d411a5e658a19a5a826e"
+        },
+        "nome": "Traslado aeroporto",
+        "quantidade": 1,
+        "preco_unitario": 150.0,
+        "total": 150.0,
+        "data": {
+          "$date": "2026-04-18T13:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "e2c2a4d139def08e132bb934"
+        },
+        "nome": "Jantar",
+        "quantidade": 4,
+        "preco_unitario": 95.0,
+        "total": 380.0,
+        "data": {
+          "$date": "2026-04-19T20:00:00Z"
+        }
+      }
+    ],
+    "total_servicos": 530.0,
+    "total_diarias": 2940.0,
+    "total_geral": 3470.0
+  },
+  {
+    "_id": {
+      "$oid": "4d06207e373aed91e1f17c03"
+    },
+    "reserva_id": {
+      "$oid": "d2c378d66feb44dff84e1282"
+    },
+    "hospede_id": {
+      "$oid": "a6bcca31ccdcb96eeeea9b35"
+    },
+    "quarto_id": {
+      "$oid": "864c35f72c21143c70bcac78"
+    },
+    "checkin_real": {
+      "$date": "2026-04-25T18:27:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-04-27T11:40:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "2c2036465d91df7a569125b8"
+        },
+        "nome": "Café da manhã",
+        "quantidade": 2,
+        "preco_unitario": 45.0,
+        "total": 90.0,
+        "data": {
+          "$date": "2026-04-26T08:30:00Z"
+        }
+      }
+    ],
+    "total_servicos": 90.0,
+    "total_diarias": 1120.0,
+    "total_geral": 1210.0,
+    "observacoes": "Hóspede solicitou late checkout, atendido."
+  },
+  {
+    "_id": {
+      "$oid": "49d63826056a915628869939"
+    },
+    "reserva_id": {
+      "$oid": "0412cea6f1d3073be271bf62"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "quarto_id": {
+      "$oid": "bdceb719af53631384373c65"
+    },
+    "checkin_real": {
+      "$date": "2026-05-02T18:51:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-05-06T10:01:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "2c2036465d91df7a569125b8"
+        },
+        "nome": "Café da manhã",
+        "quantidade": 4,
+        "preco_unitario": 45.0,
+        "total": 180.0,
+        "data": {
+          "$date": "2026-05-03T08:10:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "9e4eddc5ef56f69f341565d9"
+        },
+        "nome": "Lavanderia",
+        "quantidade": 1,
+        "preco_unitario": 80.0,
+        "total": 80.0,
+        "data": {
+          "$date": "2026-05-04T16:00:00Z"
+        }
+      }
+    ],
+    "total_servicos": 260.0,
+    "total_diarias": 3400.0,
+    "total_geral": 3660.0,
+    "observacoes": "Pediu silêncio no andar."
+  },
+  {
+    "_id": {
+      "$oid": "780ab80344369a3bf46c628c"
+    },
+    "reserva_id": {
+      "$oid": "217d889e4e9f4b9fbdfd5a1b"
+    },
+    "hospede_id": {
+      "$oid": "784718ad67ffad151798b3a7"
+    },
+    "quarto_id": {
+      "$oid": "3e690febd97ec02db55f9e01"
+    },
+    "checkin_real": {
+      "$date": "2026-04-19T15:04:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-04-22T10:49:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "2cf2e0bc57e0e03b84531a77"
+        },
+        "nome": "Cesta de boas-vindas",
+        "quantidade": 1,
+        "preco_unitario": 85.0,
+        "total": 85.0,
+        "data": {
+          "$date": "2026-04-19T13:30:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "4dd0d807075b543c32af69dc"
+        },
+        "nome": "Café na cama",
+        "quantidade": 1,
+        "preco_unitario": 60.0,
+        "total": 60.0,
+        "data": {
+          "$date": "2026-04-19T12:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "015df5ceb36dae542338cd5c"
+        },
+        "nome": "Room service",
+        "quantidade": 1,
+        "preco_unitario": 35.0,
+        "total": 35.0,
+        "data": {
+          "$date": "2026-04-21T22:30:00Z"
+        }
+      }
+    ],
+    "total_servicos": 180.0,
+    "total_diarias": 1500.0,
+    "total_geral": 1680.0
+  },
+  {
+    "_id": {
+      "$oid": "5e417a21a5173e82f37c355a"
+    },
+    "reserva_id": {
+      "$oid": "f0f3f556aa02db57e0f6b40d"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "quarto_id": {
+      "$oid": "7fac430634f131d20be6a884"
+    },
+    "checkin_real": {
+      "$date": "2026-03-02T18:09:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-03-07T12:23:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "15130e32e4462eda28d7bb95"
+        },
+        "nome": "Passeio de barco",
+        "quantidade": 1,
+        "preco_unitario": 250.0,
+        "total": 250.0,
+        "data": {
+          "$date": "2026-03-02T15:45:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "437ef427fa4e8c245fa7c5a8"
+        },
+        "nome": "Passeio turístico",
+        "quantidade": 1,
+        "preco_unitario": 180.0,
+        "total": 180.0,
+        "data": {
+          "$date": "2026-03-02T19:45:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "114e0373ae4004357daf6129"
+        },
+        "nome": "Aula de yoga",
+        "quantidade": 1,
+        "preco_unitario": 60.0,
+        "total": 60.0,
+        "data": {
+          "$date": "2026-03-06T08:15:00Z"
+        }
+      }
+    ],
+    "total_servicos": 490.0,
+    "total_diarias": 1500.0,
+    "total_geral": 1990.0
+  },
+  {
+    "_id": {
+      "$oid": "7a12e492ed373a38be673652"
+    },
+    "reserva_id": {
+      "$oid": "fd2f8d91131e9ae5de16c991"
+    },
+    "hospede_id": {
+      "$oid": "45f3bed8b228cdd4ec6726a4"
+    },
+    "quarto_id": {
+      "$oid": "2ab0887006ceb28b1e2a7162"
+    },
+    "checkin_real": {
+      "$date": "2026-05-15T17:20:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-05-18T11:15:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "fe8ea2de4778c39f1fd115e3"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "4dd0d807075b543c32af69dc"
+        },
+        "nome": "Café na cama",
+        "quantidade": 1,
+        "preco_unitario": 60.0,
+        "total": 60.0,
+        "data": {
+          "$date": "2026-05-15T12:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "d9655017518b83a37be70b96"
+        },
+        "nome": "Decoração romântica",
+        "quantidade": 1,
+        "preco_unitario": 150.0,
+        "total": 150.0,
+        "data": {
+          "$date": "2026-05-15T09:15:00Z"
+        }
+      }
+    ],
+    "total_servicos": 210.0,
+    "total_diarias": 3150.0,
+    "total_geral": 3360.0,
+    "observacoes": "Solicitou travesseiros extras."
+  },
+  {
+    "_id": {
+      "$oid": "82288c5b9ddda412e98b24ca"
+    },
+    "reserva_id": {
+      "$oid": "cd2b6574764763c9c559e88f"
+    },
+    "hospede_id": {
+      "$oid": "45f3bed8b228cdd4ec6726a4"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "checkin_real": {
+      "$date": "2026-07-19T18:07:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-07-22T11:49:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "0009970e63722efbd89314da"
+        },
+        "nome": "Minibar",
+        "quantidade": 3,
+        "preco_unitario": 25.0,
+        "total": 75.0,
+        "data": {
+          "$date": "2026-07-20T15:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "d22fa2704f3661a75e3ea4ab"
+        },
+        "nome": "Late checkout",
+        "quantidade": 1,
+        "preco_unitario": 120.0,
+        "total": 120.0,
+        "data": {
+          "$date": "2026-07-19T14:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "9e4eddc5ef56f69f341565d9"
+        },
+        "nome": "Lavanderia",
+        "quantidade": 2,
+        "preco_unitario": 80.0,
+        "total": 160.0,
+        "data": {
+          "$date": "2026-07-21T08:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "8d9d396b02b706fe026846c4"
+        },
+        "nome": "Aluguel de carro",
+        "quantidade": 2,
+        "preco_unitario": 280.0,
+        "total": 560.0,
+        "data": {
+          "$date": "2026-07-21T21:30:00Z"
+        }
+      }
+    ],
+    "total_servicos": 915.0,
+    "total_diarias": 1500.0,
+    "total_geral": 2415.0
+  },
+  {
+    "_id": {
+      "$oid": "2d07d7273d2f09062d91d4f0"
+    },
+    "reserva_id": {
+      "$oid": "807a11e3f1f8ed71bea0981e"
+    },
+    "hospede_id": {
+      "$oid": "fea9a6cc59ab0f97ac2bcfcd"
+    },
+    "quarto_id": {
+      "$oid": "c4c6b715bc17e700c4a2ef0d"
+    },
+    "checkin_real": {
+      "$date": "2026-09-01T15:07:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-09-07T10:54:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "9e4eddc5ef56f69f341565d9"
+        },
+        "nome": "Lavanderia",
+        "quantidade": 1,
+        "preco_unitario": 80.0,
+        "total": 80.0,
+        "data": {
+          "$date": "2026-09-03T21:45:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "32b3fa2f7edcaa45b80e831a"
+        },
+        "nome": "Almoço",
+        "quantidade": 1,
+        "preco_unitario": 70.0,
+        "total": 70.0,
+        "data": {
+          "$date": "2026-09-01T14:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "4dd0d807075b543c32af69dc"
+        },
+        "nome": "Café na cama",
+        "quantidade": 1,
+        "preco_unitario": 60.0,
+        "total": 60.0,
+        "data": {
+          "$date": "2026-09-03T07:45:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "f4773ca248de2eecdc6879c2"
+        },
+        "nome": "Cama extra",
+        "quantidade": 1,
+        "preco_unitario": 90.0,
+        "total": 90.0,
+        "data": {
+          "$date": "2026-09-02T10:45:00Z"
+        }
+      }
+    ],
+    "total_servicos": 300.0,
+    "total_diarias": 6300.0,
+    "total_geral": 6600.0,
+    "observacoes": "Solicitou travesseiros extras."
+  },
+  {
+    "_id": {
+      "$oid": "d9759105cae633c953a9b867"
+    },
+    "reserva_id": {
+      "$oid": "2a5a671817276963c125a56c"
+    },
+    "hospede_id": {
+      "$oid": "5734172736c64a5d05fac01c"
+    },
+    "quarto_id": {
+      "$oid": "20b23d390d5325a1ae9a0248"
+    },
+    "checkin_real": {
+      "$date": "2026-09-09T14:51:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-09-13T11:42:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "fe8ea2de4778c39f1fd115e3"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "ed52d411a5e658a19a5a826e"
+        },
+        "nome": "Traslado aeroporto",
+        "quantidade": 1,
+        "preco_unitario": 150.0,
+        "total": 150.0,
+        "data": {
+          "$date": "2026-09-11T17:45:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "437ef427fa4e8c245fa7c5a8"
+        },
+        "nome": "Passeio turístico",
+        "quantidade": 2,
+        "preco_unitario": 180.0,
+        "total": 360.0,
+        "data": {
+          "$date": "2026-09-11T13:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "f4773ca248de2eecdc6879c2"
+        },
+        "nome": "Cama extra",
+        "quantidade": 4,
+        "preco_unitario": 90.0,
+        "total": 360.0,
+        "data": {
+          "$date": "2026-09-10T20:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "15130e32e4462eda28d7bb95"
+        },
+        "nome": "Passeio de barco",
+        "quantidade": 2,
+        "preco_unitario": 250.0,
+        "total": 500.0,
+        "data": {
+          "$date": "2026-09-12T19:45:00Z"
+        }
+      }
+    ],
+    "total_servicos": 1370.0,
+    "total_diarias": 960.0,
+    "total_geral": 2330.0
+  },
+  {
+    "_id": {
+      "$oid": "fd52016d50bd5f2f9a8d0930"
+    },
+    "reserva_id": {
+      "$oid": "f9e3a489529c2a2ab725251c"
+    },
+    "hospede_id": {
+      "$oid": "05f61134b92c319d4191de96"
+    },
+    "quarto_id": {
+      "$oid": "b389f92aefee4e9432d5a5f4"
+    },
+    "checkin_real": {
+      "$date": "2026-01-05T15:45:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-01-09T10:50:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "114e0373ae4004357daf6129"
+        },
+        "nome": "Aula de yoga",
+        "quantidade": 2,
+        "preco_unitario": 60.0,
+        "total": 120.0,
+        "data": {
+          "$date": "2026-01-07T22:00:00Z"
+        }
+      }
+    ],
+    "total_servicos": 120.0,
+    "total_diarias": 3960.0,
+    "total_geral": 4080.0
+  },
+  {
+    "_id": {
+      "$oid": "041fee780a64bded9bbe5982"
+    },
+    "reserva_id": {
+      "$oid": "eddd164dcd11a73abd4c591f"
+    },
+    "hospede_id": {
+      "$oid": "de47ede5783065ce32b6b4d5"
+    },
+    "quarto_id": {
+      "$oid": "7fac430634f131d20be6a884"
+    },
+    "checkin_real": {
+      "$date": "2026-01-26T15:50:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-01-27T10:15:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "fe8ea2de4778c39f1fd115e3"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "e2c2a4d139def08e132bb934"
+        },
+        "nome": "Jantar",
+        "quantidade": 1,
+        "preco_unitario": 95.0,
+        "total": 95.0,
+        "data": {
+          "$date": "2026-01-26T22:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "0009970e63722efbd89314da"
+        },
+        "nome": "Minibar",
+        "quantidade": 1,
+        "preco_unitario": 25.0,
+        "total": 25.0,
+        "data": {
+          "$date": "2026-01-26T15:45:00Z"
+        }
+      }
+    ],
+    "total_servicos": 120.0,
+    "total_diarias": 300.0,
+    "total_geral": 420.0
+  },
+  {
+    "_id": {
+      "$oid": "c3f8ce497c12c9d66f5000a9"
+    },
+    "reserva_id": {
+      "$oid": "800720e210824aba8c5bb4dd"
+    },
+    "hospede_id": {
+      "$oid": "6311dc039a6c943bb5d6523e"
+    },
+    "quarto_id": {
+      "$oid": "864c35f72c21143c70bcac78"
+    },
+    "checkin_real": {
+      "$date": "2026-03-13T18:36:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-03-17T11:29:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "4dd0d807075b543c32af69dc"
+        },
+        "nome": "Café na cama",
+        "quantidade": 1,
+        "preco_unitario": 60.0,
+        "total": 60.0,
+        "data": {
+          "$date": "2026-03-13T22:30:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "2c2036465d91df7a569125b8"
+        },
+        "nome": "Café da manhã",
+        "quantidade": 1,
+        "preco_unitario": 45.0,
+        "total": 45.0,
+        "data": {
+          "$date": "2026-03-15T14:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "0a217118c2e9cf9be08444d8"
+        },
+        "nome": "Early check-in",
+        "quantidade": 1,
+        "preco_unitario": 100.0,
+        "total": 100.0,
+        "data": {
+          "$date": "2026-03-15T11:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "d9655017518b83a37be70b96"
+        },
+        "nome": "Decoração romântica",
+        "quantidade": 1,
+        "preco_unitario": 150.0,
+        "total": 150.0,
+        "data": {
+          "$date": "2026-03-13T16:45:00Z"
+        }
+      }
+    ],
+    "total_servicos": 355.0,
+    "total_diarias": 2240.0,
+    "total_geral": 2595.0,
+    "observacoes": "Pediu silêncio no andar."
+  },
+  {
+    "_id": {
+      "$oid": "deab58ddbb347710d88101bb"
+    },
+    "reserva_id": {
+      "$oid": "70d42c3aabff346f090b1f79"
+    },
+    "hospede_id": {
+      "$oid": "c6b4d52ed88b877fd8e82a0a"
+    },
+    "quarto_id": {
+      "$oid": "7fac430634f131d20be6a884"
+    },
+    "checkin_real": {
+      "$date": "2026-08-09T17:33:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-08-13T12:49:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "f4773ca248de2eecdc6879c2"
+        },
+        "nome": "Cama extra",
+        "quantidade": 1,
+        "preco_unitario": 90.0,
+        "total": 90.0,
+        "data": {
+          "$date": "2026-08-11T10:45:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "9e045d9162e3c2484f914002"
+        },
+        "nome": "Manicure e pedicure",
+        "quantidade": 2,
+        "preco_unitario": 90.0,
+        "total": 180.0,
+        "data": {
+          "$date": "2026-08-11T19:30:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "0009970e63722efbd89314da"
+        },
+        "nome": "Minibar",
+        "quantidade": 1,
+        "preco_unitario": 25.0,
+        "total": 25.0,
+        "data": {
+          "$date": "2026-08-10T22:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "c54ab4a98198c137d4e956f1"
+        },
+        "nome": "Estacionamento",
+        "quantidade": 3,
+        "preco_unitario": 40.0,
+        "total": 120.0,
+        "data": {
+          "$date": "2026-08-10T09:45:00Z"
+        }
+      }
+    ],
+    "total_servicos": 415.0,
+    "total_diarias": 1200.0,
+    "total_geral": 1615.0
+  },
+  {
+    "_id": {
+      "$oid": "d878bed7d35eb2b3b5257a67"
+    },
+    "reserva_id": {
+      "$oid": "ce86152540e85459dd8fc1d5"
+    },
+    "hospede_id": {
+      "$oid": "4ee5872c8a1db05218eaae69"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "checkin_real": {
+      "$date": "2026-01-12T17:29:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-01-14T11:08:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "9e4eddc5ef56f69f341565d9"
+        },
+        "nome": "Lavanderia",
+        "quantidade": 1,
+        "preco_unitario": 80.0,
+        "total": 80.0,
+        "data": {
+          "$date": "2026-01-12T21:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "c54ab4a98198c137d4e956f1"
+        },
+        "nome": "Estacionamento",
+        "quantidade": 1,
+        "preco_unitario": 40.0,
+        "total": 40.0,
+        "data": {
+          "$date": "2026-01-12T08:30:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "4dd0d807075b543c32af69dc"
+        },
+        "nome": "Café na cama",
+        "quantidade": 1,
+        "preco_unitario": 60.0,
+        "total": 60.0,
+        "data": {
+          "$date": "2026-01-12T11:15:00Z"
+        }
+      }
+    ],
+    "total_servicos": 180.0,
+    "total_diarias": 1000.0,
+    "total_geral": 1180.0,
+    "observacoes": "Pediu silêncio no andar."
+  },
+  {
+    "_id": {
+      "$oid": "657fa7d04907dc69be329968"
+    },
+    "reserva_id": {
+      "$oid": "f0bbace64602d1ae51ea2fe7"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "quarto_id": {
+      "$oid": "bdceb719af53631384373c65"
+    },
+    "checkin_real": {
+      "$date": "2026-10-18T18:09:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-10-21T11:10:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "2c2036465d91df7a569125b8"
+        },
+        "nome": "Café da manhã",
+        "quantidade": 1,
+        "preco_unitario": 45.0,
+        "total": 45.0,
+        "data": {
+          "$date": "2026-10-18T20:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "e2c2a4d139def08e132bb934"
+        },
+        "nome": "Jantar",
+        "quantidade": 1,
+        "preco_unitario": 95.0,
+        "total": 95.0,
+        "data": {
+          "$date": "2026-10-19T21:30:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "4dd0d807075b543c32af69dc"
+        },
+        "nome": "Café na cama",
+        "quantidade": 1,
+        "preco_unitario": 60.0,
+        "total": 60.0,
+        "data": {
+          "$date": "2026-10-20T10:45:00Z"
+        }
+      }
+    ],
+    "total_servicos": 200.0,
+    "total_diarias": 2550.0,
+    "total_geral": 2750.0,
+    "observacoes": "Pediu silêncio no andar."
+  },
+  {
+    "_id": {
+      "$oid": "028369b7fadf886e0ce94ff7"
+    },
+    "reserva_id": {
+      "$oid": "8b17a581fb9a0a872df3d92b"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "quarto_id": {
+      "$oid": "bdcc1cbe042596ab21520c94"
+    },
+    "checkin_real": {
+      "$date": "2026-01-03T16:33:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-01-06T11:54:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "fe8ea2de4778c39f1fd115e3"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "437ef427fa4e8c245fa7c5a8"
+        },
+        "nome": "Passeio turístico",
+        "quantidade": 2,
+        "preco_unitario": 180.0,
+        "total": 360.0,
+        "data": {
+          "$date": "2026-01-03T10:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "2dc8616ec435df794e644edb"
+        },
+        "nome": "Aluguel de bicicleta",
+        "quantidade": 2,
+        "preco_unitario": 50.0,
+        "total": 100.0,
+        "data": {
+          "$date": "2026-01-04T14:45:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "d22fa2704f3661a75e3ea4ab"
+        },
+        "nome": "Late checkout",
+        "quantidade": 1,
+        "preco_unitario": 120.0,
+        "total": 120.0,
+        "data": {
+          "$date": "2026-01-04T21:45:00Z"
+        }
+      }
+    ],
+    "total_servicos": 580.0,
+    "total_diarias": 2460.0,
+    "total_geral": 3040.0,
+    "observacoes": "Solicitou travesseiros extras."
+  },
+  {
+    "_id": {
+      "$oid": "4989fe8a5be0a527f73bee08"
+    },
+    "reserva_id": {
+      "$oid": "4ce434927b4d28405cf3d00c"
+    },
+    "hospede_id": {
+      "$oid": "e355b734d867fc64f4a869fe"
+    },
+    "quarto_id": {
+      "$oid": "13ec43cb18053a2e08fc51f2"
+    },
+    "checkin_real": {
+      "$date": "2026-10-14T18:17:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-10-20T10:40:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "fe8ea2de4778c39f1fd115e3"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "d9655017518b83a37be70b96"
+        },
+        "nome": "Decoração romântica",
+        "quantidade": 1,
+        "preco_unitario": 150.0,
+        "total": 150.0,
+        "data": {
+          "$date": "2026-10-15T10:30:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "15130e32e4462eda28d7bb95"
+        },
+        "nome": "Passeio de barco",
+        "quantidade": 2,
+        "preco_unitario": 250.0,
+        "total": 500.0,
+        "data": {
+          "$date": "2026-10-14T15:15:00Z"
+        }
+      }
+    ],
+    "total_servicos": 650.0,
+    "total_diarias": 1680.0,
+    "total_geral": 2330.0
+  },
+  {
+    "_id": {
+      "$oid": "8bd65bd8548c1c1045aa6e82"
+    },
+    "reserva_id": {
+      "$oid": "e0322773eead66a93c3181ae"
+    },
+    "hospede_id": {
+      "$oid": "e355b734d867fc64f4a869fe"
+    },
+    "quarto_id": {
+      "$oid": "b389f92aefee4e9432d5a5f4"
+    },
+    "checkin_real": {
+      "$date": "2026-08-20T18:37:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-08-26T10:10:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "fe8ea2de4778c39f1fd115e3"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "9e045d9162e3c2484f914002"
+        },
+        "nome": "Manicure e pedicure",
+        "quantidade": 1,
+        "preco_unitario": 90.0,
+        "total": 90.0,
+        "data": {
+          "$date": "2026-08-24T19:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "2c2036465d91df7a569125b8"
+        },
+        "nome": "Café da manhã",
+        "quantidade": 1,
+        "preco_unitario": 45.0,
+        "total": 45.0,
+        "data": {
+          "$date": "2026-08-25T07:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "e2c2a4d139def08e132bb934"
+        },
+        "nome": "Jantar",
+        "quantidade": 3,
+        "preco_unitario": 95.0,
+        "total": 285.0,
+        "data": {
+          "$date": "2026-08-24T13:45:00Z"
+        }
+      }
+    ],
+    "total_servicos": 420.0,
+    "total_diarias": 5940.0,
+    "total_geral": 6360.0
+  },
+  {
+    "_id": {
+      "$oid": "c1422a3487e0d1c9ebd0388e"
+    },
+    "reserva_id": {
+      "$oid": "8df2ff490da6ffb4acc64778"
+    },
+    "hospede_id": {
+      "$oid": "a6bcca31ccdcb96eeeea9b35"
+    },
+    "quarto_id": {
+      "$oid": "808098038e3c50d1dc61e43b"
+    },
+    "checkin_real": {
+      "$date": "2026-07-14T18:16:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-07-17T10:49:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "2dc8616ec435df794e644edb"
+        },
+        "nome": "Aluguel de bicicleta",
+        "quantidade": 1,
+        "preco_unitario": 50.0,
+        "total": 50.0,
+        "data": {
+          "$date": "2026-07-15T08:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "d9655017518b83a37be70b96"
+        },
+        "nome": "Decoração romântica",
+        "quantidade": 1,
+        "preco_unitario": 150.0,
+        "total": 150.0,
+        "data": {
+          "$date": "2026-07-14T16:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "2cf2e0bc57e0e03b84531a77"
+        },
+        "nome": "Cesta de boas-vindas",
+        "quantidade": 1,
+        "preco_unitario": 85.0,
+        "total": 85.0,
+        "data": {
+          "$date": "2026-07-14T15:30:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "9e4eddc5ef56f69f341565d9"
+        },
+        "nome": "Lavanderia",
+        "quantidade": 2,
+        "preco_unitario": 80.0,
+        "total": 160.0,
+        "data": {
+          "$date": "2026-07-14T07:45:00Z"
+        }
+      }
+    ],
+    "total_servicos": 445.0,
+    "total_diarias": 900.0,
+    "total_geral": 1345.0
+  },
+  {
+    "_id": {
+      "$oid": "b7d29554292e72142693627f"
+    },
+    "reserva_id": {
+      "$oid": "47371d7f1a183caae9ae7178"
+    },
+    "hospede_id": {
+      "$oid": "3d7aa75138d2147899fb422e"
+    },
+    "quarto_id": {
+      "$oid": "14246d42d818e864d76a8bc3"
+    },
+    "checkin_real": {
+      "$date": "2026-07-23T18:18:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-07-29T11:30:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "0009970e63722efbd89314da"
+        },
+        "nome": "Minibar",
+        "quantidade": 2,
+        "preco_unitario": 25.0,
+        "total": 50.0,
+        "data": {
+          "$date": "2026-07-26T19:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "8d9d396b02b706fe026846c4"
+        },
+        "nome": "Aluguel de carro",
+        "quantidade": 4,
+        "preco_unitario": 280.0,
+        "total": 1120.0,
+        "data": {
+          "$date": "2026-07-25T17:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "3b9c673890fd2f9bd448d23e"
+        },
+        "nome": "Spa",
+        "quantidade": 2,
+        "preco_unitario": 200.0,
+        "total": 400.0,
+        "data": {
+          "$date": "2026-07-24T09:00:00Z"
+        }
+      }
+    ],
+    "total_servicos": 1570.0,
+    "total_diarias": 2880.0,
+    "total_geral": 4450.0
+  },
+  {
+    "_id": {
+      "$oid": "c82a05c414885aed12295aa3"
+    },
+    "reserva_id": {
+      "$oid": "55007f8424095b285a0e0a0c"
+    },
+    "hospede_id": {
+      "$oid": "6311dc039a6c943bb5d6523e"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "checkin_real": {
+      "$date": "2026-05-19T17:04:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-05-24T09:10:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "437ef427fa4e8c245fa7c5a8"
+        },
+        "nome": "Passeio turístico",
+        "quantidade": 2,
+        "preco_unitario": 180.0,
+        "total": 360.0,
+        "data": {
+          "$date": "2026-05-22T16:30:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "0009970e63722efbd89314da"
+        },
+        "nome": "Minibar",
+        "quantidade": 5,
+        "preco_unitario": 25.0,
+        "total": 125.0,
+        "data": {
+          "$date": "2026-05-19T18:00:00Z"
+        }
+      }
+    ],
+    "total_servicos": 485.0,
+    "total_diarias": 2500.0,
+    "total_geral": 2985.0
+  },
+  {
+    "_id": {
+      "$oid": "e2dd8179d6ab6ef1772929ae"
+    },
+    "reserva_id": {
+      "$oid": "a5be4a3dc6505ab695dc97cd"
+    },
+    "hospede_id": {
+      "$oid": "891c72b86a9ba7179c8411d8"
+    },
+    "quarto_id": {
+      "$oid": "1bce6bf96171059160ae74fd"
+    },
+    "checkin_real": {
+      "$date": "2026-05-26T16:38:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-05-29T10:20:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "fe8ea2de4778c39f1fd115e3"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "9e045d9162e3c2484f914002"
+        },
+        "nome": "Manicure e pedicure",
+        "quantidade": 2,
+        "preco_unitario": 90.0,
+        "total": 180.0,
+        "data": {
+          "$date": "2026-05-27T17:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "2cf2e0bc57e0e03b84531a77"
+        },
+        "nome": "Cesta de boas-vindas",
+        "quantidade": 1,
+        "preco_unitario": 85.0,
+        "total": 85.0,
+        "data": {
+          "$date": "2026-05-28T17:00:00Z"
+        }
+      }
+    ],
+    "total_servicos": 265.0,
+    "total_diarias": 1560.0,
+    "total_geral": 1825.0
+  },
+  {
+    "_id": {
+      "$oid": "087863a7b748ac2f5350657e"
+    },
+    "reserva_id": {
+      "$oid": "e5b7fa955ba15fc85850ab3c"
+    },
+    "hospede_id": {
+      "$oid": "46a9ad38242ed89c10c9277f"
+    },
+    "quarto_id": {
+      "$oid": "20b23d390d5325a1ae9a0248"
+    },
+    "checkin_real": {
+      "$date": "2026-04-13T18:35:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-04-19T09:20:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "fe8ea2de4778c39f1fd115e3"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "2c2036465d91df7a569125b8"
+        },
+        "nome": "Café da manhã",
+        "quantidade": 1,
+        "preco_unitario": 45.0,
+        "total": 45.0,
+        "data": {
+          "$date": "2026-04-14T17:45:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "9e045d9162e3c2484f914002"
+        },
+        "nome": "Manicure e pedicure",
+        "quantidade": 1,
+        "preco_unitario": 90.0,
+        "total": 90.0,
+        "data": {
+          "$date": "2026-04-14T11:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "2cf2e0bc57e0e03b84531a77"
+        },
+        "nome": "Cesta de boas-vindas",
+        "quantidade": 1,
+        "preco_unitario": 85.0,
+        "total": 85.0,
+        "data": {
+          "$date": "2026-04-13T16:00:00Z"
+        }
+      }
+    ],
+    "total_servicos": 220.0,
+    "total_diarias": 1440.0,
+    "total_geral": 1660.0
+  },
+  {
+    "_id": {
+      "$oid": "875bf4c0fca3519e6833f46d"
+    },
+    "reserva_id": {
+      "$oid": "edbd947d9bf3560bd70641bd"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "quarto_id": {
+      "$oid": "ce1f8c947fca29b4bedeb74f"
+    },
+    "checkin_real": {
+      "$date": "2026-01-11T17:15:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-01-16T10:06:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "9e045d9162e3c2484f914002"
+        },
+        "nome": "Manicure e pedicure",
+        "quantidade": 2,
+        "preco_unitario": 90.0,
+        "total": 180.0,
+        "data": {
+          "$date": "2026-01-14T14:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "d9655017518b83a37be70b96"
+        },
+        "nome": "Decoração romântica",
+        "quantidade": 1,
+        "preco_unitario": 150.0,
+        "total": 150.0,
+        "data": {
+          "$date": "2026-01-13T22:15:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "015df5ceb36dae542338cd5c"
+        },
+        "nome": "Room service",
+        "quantidade": 2,
+        "preco_unitario": 35.0,
+        "total": 70.0,
+        "data": {
+          "$date": "2026-01-15T21:45:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "437ef427fa4e8c245fa7c5a8"
+        },
+        "nome": "Passeio turístico",
+        "quantidade": 2,
+        "preco_unitario": 180.0,
+        "total": 360.0,
+        "data": {
+          "$date": "2026-01-14T20:15:00Z"
+        }
+      }
+    ],
+    "total_servicos": 760.0,
+    "total_diarias": 4900.0,
+    "total_geral": 5660.0,
+    "observacoes": "Hóspede solicitou late checkout, atendido."
+  },
+  {
+    "_id": {
+      "$oid": "f35f35715d01041896b0d297"
+    },
+    "reserva_id": {
+      "$oid": "0d146907cc416f9ce893be27"
+    },
+    "hospede_id": {
+      "$oid": "04d44a0011d579d9f4c2ff89"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "checkin_real": {
+      "$date": "2026-08-03T18:26:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-08-05T10:55:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "5d05706d488ded51515f9e52"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "0052b34164d3f2712224c3f0"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "c54ab4a98198c137d4e956f1"
+        },
+        "nome": "Estacionamento",
+        "quantidade": 2,
+        "preco_unitario": 40.0,
+        "total": 80.0,
+        "data": {
+          "$date": "2026-08-03T07:30:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "0009970e63722efbd89314da"
+        },
+        "nome": "Minibar",
+        "quantidade": 1,
+        "preco_unitario": 25.0,
+        "total": 25.0,
+        "data": {
+          "$date": "2026-08-04T11:15:00Z"
+        }
+      }
+    ],
+    "total_servicos": 105.0,
+    "total_diarias": 1000.0,
+    "total_geral": 1105.0,
+    "observacoes": "Pediu silêncio no andar."
+  },
+  {
+    "_id": {
+      "$oid": "9c13ffc90ab758d8139cb60e"
+    },
+    "reserva_id": {
+      "$oid": "54dfa8d780dbeb37c5c67b8a"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "quarto_id": {
+      "$oid": "3e690febd97ec02db55f9e01"
+    },
+    "checkin_real": {
+      "$date": "2026-05-05T17:32:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-05-11T12:31:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "fe8ea2de4778c39f1fd115e3"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "fe8ea2de4778c39f1fd115e3"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "3b9c673890fd2f9bd448d23e"
+        },
+        "nome": "Spa",
+        "quantidade": 1,
+        "preco_unitario": 200.0,
+        "total": 200.0,
+        "data": {
+          "$date": "2026-05-08T21:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "2cf2e0bc57e0e03b84531a77"
+        },
+        "nome": "Cesta de boas-vindas",
+        "quantidade": 1,
+        "preco_unitario": 85.0,
+        "total": 85.0,
+        "data": {
+          "$date": "2026-05-05T22:00:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "015df5ceb36dae542338cd5c"
+        },
+        "nome": "Room service",
+        "quantidade": 1,
+        "preco_unitario": 35.0,
+        "total": 35.0,
+        "data": {
+          "$date": "2026-05-10T11:30:00Z"
+        }
+      },
+      {
+        "servico_id": {
+          "$oid": "9e4eddc5ef56f69f341565d9"
+        },
+        "nome": "Lavanderia",
+        "quantidade": 2,
+        "preco_unitario": 80.0,
+        "total": 160.0,
+        "data": {
+          "$date": "2026-05-05T18:15:00Z"
+        }
+      }
+    ],
+    "total_servicos": 480.0,
+    "total_diarias": 3000.0,
+    "total_geral": 3480.0
+  },
+  {
+    "_id": {
+      "$oid": "1e142496c96d6cc5338c2596"
+    },
+    "reserva_id": {
+      "$oid": "8d2d28e8cb28825a5093972f"
+    },
+    "hospede_id": {
+      "$oid": "b09607ce657849633bd103ab"
+    },
+    "quarto_id": {
+      "$oid": "aaca13fd09760fa544a78286"
+    },
+    "checkin_real": {
+      "$date": "2026-08-06T17:32:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-08-12T12:15:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "funcionario_checkout_id": {
+      "$oid": "874c14f18be9af3613b1a7d8"
+    },
+    "servicos_consumidos": [
+      {
+        "servico_id": {
+          "$oid": "2cf2e0bc57e0e03b84531a77"
+        },
+        "nome": "Cesta de boas-vindas",
+        "quantidade": 1,
+        "preco_unitario": 85.0,
+        "total": 85.0,
+        "data": {
+          "$date": "2026-08-07T08:15:00Z"
+        }
+      }
+    ],
+    "total_servicos": 85.0,
+    "total_diarias": 3000.0,
+    "total_geral": 3085.0
+  }
+]

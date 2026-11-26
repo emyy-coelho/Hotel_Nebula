@@ -1,0 +1,1046 @@
+[
+  {
+    "_id": {
+      "$oid": "eb13e79662dcb9b89c2a0fa5"
+    },
+    "hospedagem_id": {
+      "$oid": "d5ed45431209aa6dde67ee06"
+    },
+    "reserva_id": {
+      "$oid": "565fd5893276d3da36f0deed"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "valor_total": 1245.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-04-14T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Visa",
+        "valor": 1000.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TXN-VISA-00392"
+      },
+      {
+        "metodo": "pix",
+        "valor": 245.0,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00841"
+      }
+    ],
+    "nota_fiscal": "NF-e 000421",
+    "data_criacao": {
+      "$date": "2026-04-14T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "91843d7a70ac5d0fd7b73260"
+    },
+    "hospedagem_id": {
+      "$oid": "46e09c2b54a91ab0454525a3"
+    },
+    "reserva_id": {
+      "$oid": "5d8cf2d9a8c3a0da895ec83c"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "valor_total": 915.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-01-13T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "pix",
+        "valor": 915.0,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00502"
+      }
+    ],
+    "nota_fiscal": "NF-e 000422",
+    "data_criacao": {
+      "$date": "2026-01-13T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "809b82ce2754105bf8b59d82"
+    },
+    "hospedagem_id": {
+      "$oid": "1692fbe183231112294c3ea6"
+    },
+    "reserva_id": {
+      "$oid": "95a02eb4990ec5c9d95cdabe"
+    },
+    "hospede_id": {
+      "$oid": "fea9a6cc59ab0f97ac2bcfcd"
+    },
+    "valor_total": 2150.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-02-17T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Amex",
+        "valor": 2150.0,
+        "num_parcelas": 3,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00503"
+      }
+    ],
+    "nota_fiscal": "NF-e 000423",
+    "data_criacao": {
+      "$date": "2026-02-17T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "286acf31e48505e1fa972497"
+    },
+    "hospedagem_id": {
+      "$oid": "76e50feb87821386022d453d"
+    },
+    "reserva_id": {
+      "$oid": "2bc47d1bbb745d7b97424eb5"
+    },
+    "hospede_id": {
+      "$oid": "05f61134b92c319d4191de96"
+    },
+    "valor_total": 1255.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-03-09T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Elo",
+        "valor": 1255.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00504"
+      }
+    ],
+    "nota_fiscal": "NF-e 000424",
+    "data_criacao": {
+      "$date": "2026-03-09T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "55967d6916c5de3423559dae"
+    },
+    "hospedagem_id": {
+      "$oid": "9b769b01264fd9d2fbd14f84"
+    },
+    "reserva_id": {
+      "$oid": "67e67014131ddbc4a230cafb"
+    },
+    "hospede_id": {
+      "$oid": "fea9a6cc59ab0f97ac2bcfcd"
+    },
+    "valor_total": 3470.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-04-21T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Elo",
+        "valor": 3470.0,
+        "num_parcelas": 6,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00505"
+      }
+    ],
+    "nota_fiscal": "NF-e 000425",
+    "data_criacao": {
+      "$date": "2026-04-21T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b35d26cab24cbbc88ec5c9e6"
+    },
+    "hospedagem_id": {
+      "$oid": "4d06207e373aed91e1f17c03"
+    },
+    "reserva_id": {
+      "$oid": "d2c378d66feb44dff84e1282"
+    },
+    "hospede_id": {
+      "$oid": "a6bcca31ccdcb96eeeea9b35"
+    },
+    "valor_total": 1210.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-04-27T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_debito",
+        "valor": 1210.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00506"
+      }
+    ],
+    "nota_fiscal": "NF-e 000426",
+    "data_criacao": {
+      "$date": "2026-04-27T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "190cce172ccd2ffdd8decbac"
+    },
+    "hospedagem_id": {
+      "$oid": "49d63826056a915628869939"
+    },
+    "reserva_id": {
+      "$oid": "0412cea6f1d3073be271bf62"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "valor_total": 3660.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-05-06T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "pix",
+        "valor": 3660.0,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00507"
+      }
+    ],
+    "nota_fiscal": "NF-e 000427",
+    "data_criacao": {
+      "$date": "2026-05-06T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5c754ad13050d33384512a65"
+    },
+    "hospedagem_id": {
+      "$oid": "780ab80344369a3bf46c628c"
+    },
+    "reserva_id": {
+      "$oid": "217d889e4e9f4b9fbdfd5a1b"
+    },
+    "hospede_id": {
+      "$oid": "784718ad67ffad151798b3a7"
+    },
+    "valor_total": 1680.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-04-22T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_debito",
+        "valor": 1680.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00511"
+      }
+    ],
+    "nota_fiscal": "NF-e 000431",
+    "data_criacao": {
+      "$date": "2026-04-22T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c1cc18f722da911bb4f2b760"
+    },
+    "hospedagem_id": {
+      "$oid": "5e417a21a5173e82f37c355a"
+    },
+    "reserva_id": {
+      "$oid": "f0f3f556aa02db57e0f6b40d"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "valor_total": 1990.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-03-07T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Visa",
+        "valor": 1393.0,
+        "num_parcelas": 2,
+        "status": "aprovado",
+        "transacao_id": "TXN-CRD-00612"
+      },
+      {
+        "metodo": "pix",
+        "valor": 597.0,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00612"
+      }
+    ],
+    "nota_fiscal": "NF-e 000432",
+    "data_criacao": {
+      "$date": "2026-03-07T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "75884d25f5ab7778e25b1139"
+    },
+    "hospedagem_id": {
+      "$oid": "7a12e492ed373a38be673652"
+    },
+    "reserva_id": {
+      "$oid": "fd2f8d91131e9ae5de16c991"
+    },
+    "hospede_id": {
+      "$oid": "45f3bed8b228cdd4ec6726a4"
+    },
+    "valor_total": 3360.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-05-18T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Mastercard",
+        "valor": 2352.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TXN-CRD-00613"
+      },
+      {
+        "metodo": "pix",
+        "valor": 1008.0,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00613"
+      }
+    ],
+    "nota_fiscal": "NF-e 000433",
+    "data_criacao": {
+      "$date": "2026-05-18T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b87e794014a7f1c933fd8114"
+    },
+    "hospedagem_id": {
+      "$oid": "82288c5b9ddda412e98b24ca"
+    },
+    "reserva_id": {
+      "$oid": "cd2b6574764763c9c559e88f"
+    },
+    "hospede_id": {
+      "$oid": "45f3bed8b228cdd4ec6726a4"
+    },
+    "valor_total": 2415.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-07-22T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Amex",
+        "valor": 1690.5,
+        "num_parcelas": 3,
+        "status": "aprovado",
+        "transacao_id": "TXN-CRD-00615"
+      },
+      {
+        "metodo": "pix",
+        "valor": 724.5,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00615"
+      }
+    ],
+    "nota_fiscal": "NF-e 000435",
+    "data_criacao": {
+      "$date": "2026-07-22T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6399fa79f6ae1660c37fd083"
+    },
+    "hospedagem_id": {
+      "$oid": "2d07d7273d2f09062d91d4f0"
+    },
+    "reserva_id": {
+      "$oid": "807a11e3f1f8ed71bea0981e"
+    },
+    "hospede_id": {
+      "$oid": "fea9a6cc59ab0f97ac2bcfcd"
+    },
+    "valor_total": 6600.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-09-07T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Amex",
+        "valor": 6600.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00517"
+      }
+    ],
+    "nota_fiscal": "NF-e 000437",
+    "data_criacao": {
+      "$date": "2026-09-07T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0cd5901377a9d9c6a3a959ea"
+    },
+    "hospedagem_id": {
+      "$oid": "d9759105cae633c953a9b867"
+    },
+    "reserva_id": {
+      "$oid": "2a5a671817276963c125a56c"
+    },
+    "hospede_id": {
+      "$oid": "5734172736c64a5d05fac01c"
+    },
+    "valor_total": 2330.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-09-13T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Visa",
+        "valor": 2330.0,
+        "num_parcelas": 6,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00518"
+      }
+    ],
+    "nota_fiscal": "NF-e 000438",
+    "data_criacao": {
+      "$date": "2026-09-13T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "977aebd099e7c9646ceaefab"
+    },
+    "hospedagem_id": {
+      "$oid": "fd52016d50bd5f2f9a8d0930"
+    },
+    "reserva_id": {
+      "$oid": "f9e3a489529c2a2ab725251c"
+    },
+    "hospede_id": {
+      "$oid": "05f61134b92c319d4191de96"
+    },
+    "valor_total": 4080.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-01-09T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "pix",
+        "valor": 4080.0,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00520"
+      }
+    ],
+    "nota_fiscal": "NF-e 000440",
+    "data_criacao": {
+      "$date": "2026-01-09T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66a145ba273ca6c7c1515047"
+    },
+    "hospedagem_id": {
+      "$oid": "041fee780a64bded9bbe5982"
+    },
+    "reserva_id": {
+      "$oid": "eddd164dcd11a73abd4c591f"
+    },
+    "hospede_id": {
+      "$oid": "de47ede5783065ce32b6b4d5"
+    },
+    "valor_total": 420.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-01-27T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "pix",
+        "valor": 420.0,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00521"
+      }
+    ],
+    "nota_fiscal": "NF-e 000441",
+    "data_criacao": {
+      "$date": "2026-01-27T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d76b937ff61d96d8801c05a9"
+    },
+    "hospedagem_id": {
+      "$oid": "c3f8ce497c12c9d66f5000a9"
+    },
+    "reserva_id": {
+      "$oid": "800720e210824aba8c5bb4dd"
+    },
+    "hospede_id": {
+      "$oid": "6311dc039a6c943bb5d6523e"
+    },
+    "valor_total": 2595.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-03-17T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Visa",
+        "valor": 1816.5,
+        "num_parcelas": 3,
+        "status": "aprovado",
+        "transacao_id": "TXN-CRD-00622"
+      },
+      {
+        "metodo": "pix",
+        "valor": 778.5,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00622"
+      }
+    ],
+    "nota_fiscal": "NF-e 000442",
+    "data_criacao": {
+      "$date": "2026-03-17T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "38aee4e5a2c80174dc86d741"
+    },
+    "hospedagem_id": {
+      "$oid": "deab58ddbb347710d88101bb"
+    },
+    "reserva_id": {
+      "$oid": "70d42c3aabff346f090b1f79"
+    },
+    "hospede_id": {
+      "$oid": "c6b4d52ed88b877fd8e82a0a"
+    },
+    "valor_total": 1615.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-08-13T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Visa",
+        "valor": 1615.0,
+        "num_parcelas": 3,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00523"
+      }
+    ],
+    "nota_fiscal": "NF-e 000443",
+    "data_criacao": {
+      "$date": "2026-08-13T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7f7216c12b9ef8a73f91519d"
+    },
+    "hospedagem_id": {
+      "$oid": "d878bed7d35eb2b3b5257a67"
+    },
+    "reserva_id": {
+      "$oid": "ce86152540e85459dd8fc1d5"
+    },
+    "hospede_id": {
+      "$oid": "4ee5872c8a1db05218eaae69"
+    },
+    "valor_total": 1180.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-01-14T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Amex",
+        "valor": 826.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TXN-CRD-00625"
+      },
+      {
+        "metodo": "pix",
+        "valor": 354.0,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00625"
+      }
+    ],
+    "nota_fiscal": "NF-e 000445",
+    "data_criacao": {
+      "$date": "2026-01-14T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ca451f7545fc14d7c4c47024"
+    },
+    "hospedagem_id": {
+      "$oid": "657fa7d04907dc69be329968"
+    },
+    "reserva_id": {
+      "$oid": "f0bbace64602d1ae51ea2fe7"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "valor_total": 2750.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-10-21T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_debito",
+        "valor": 2750.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00526"
+      }
+    ],
+    "nota_fiscal": "NF-e 000446",
+    "data_criacao": {
+      "$date": "2026-10-21T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "507d5caa8a7e21728a0c5f38"
+    },
+    "hospedagem_id": {
+      "$oid": "028369b7fadf886e0ce94ff7"
+    },
+    "reserva_id": {
+      "$oid": "8b17a581fb9a0a872df3d92b"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "valor_total": 3040.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-01-06T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "pix",
+        "valor": 3040.0,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00527"
+      }
+    ],
+    "nota_fiscal": "NF-e 000447",
+    "data_criacao": {
+      "$date": "2026-01-06T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8c8cc12a9885e15175438d2e"
+    },
+    "hospedagem_id": {
+      "$oid": "4989fe8a5be0a527f73bee08"
+    },
+    "reserva_id": {
+      "$oid": "4ce434927b4d28405cf3d00c"
+    },
+    "hospede_id": {
+      "$oid": "e355b734d867fc64f4a869fe"
+    },
+    "valor_total": 2330.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-10-20T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_debito",
+        "valor": 2330.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00529"
+      }
+    ],
+    "nota_fiscal": "NF-e 000449",
+    "data_criacao": {
+      "$date": "2026-10-20T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9be4ced1204d054eb61d8338"
+    },
+    "hospedagem_id": {
+      "$oid": "8bd65bd8548c1c1045aa6e82"
+    },
+    "reserva_id": {
+      "$oid": "e0322773eead66a93c3181ae"
+    },
+    "hospede_id": {
+      "$oid": "e355b734d867fc64f4a869fe"
+    },
+    "valor_total": 6360.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-08-26T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Visa",
+        "valor": 6360.0,
+        "num_parcelas": 2,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00530"
+      }
+    ],
+    "nota_fiscal": "NF-e 000450",
+    "data_criacao": {
+      "$date": "2026-08-26T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c7093277b9fd4357ca41b323"
+    },
+    "hospedagem_id": {
+      "$oid": "c1422a3487e0d1c9ebd0388e"
+    },
+    "reserva_id": {
+      "$oid": "8df2ff490da6ffb4acc64778"
+    },
+    "hospede_id": {
+      "$oid": "a6bcca31ccdcb96eeeea9b35"
+    },
+    "valor_total": 1345.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-07-17T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "pix",
+        "valor": 1345.0,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00531"
+      }
+    ],
+    "nota_fiscal": "NF-e 000451",
+    "data_criacao": {
+      "$date": "2026-07-17T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "25d288ef801aea76cf8481c9"
+    },
+    "hospedagem_id": {
+      "$oid": "b7d29554292e72142693627f"
+    },
+    "reserva_id": {
+      "$oid": "47371d7f1a183caae9ae7178"
+    },
+    "hospede_id": {
+      "$oid": "3d7aa75138d2147899fb422e"
+    },
+    "valor_total": 4450.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-07-29T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "pix",
+        "valor": 4450.0,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00532"
+      }
+    ],
+    "nota_fiscal": "NF-e 000452",
+    "data_criacao": {
+      "$date": "2026-07-29T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c32974cbc8e99073b9310f86"
+    },
+    "hospedagem_id": {
+      "$oid": "c82a05c414885aed12295aa3"
+    },
+    "reserva_id": {
+      "$oid": "55007f8424095b285a0e0a0c"
+    },
+    "hospede_id": {
+      "$oid": "6311dc039a6c943bb5d6523e"
+    },
+    "valor_total": 2985.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-05-24T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Amex",
+        "valor": 2985.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00533"
+      }
+    ],
+    "nota_fiscal": "NF-e 000453",
+    "data_criacao": {
+      "$date": "2026-05-24T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2cb7bb3a1ecd07c292de0fcc"
+    },
+    "hospedagem_id": {
+      "$oid": "e2dd8179d6ab6ef1772929ae"
+    },
+    "reserva_id": {
+      "$oid": "a5be4a3dc6505ab695dc97cd"
+    },
+    "hospede_id": {
+      "$oid": "891c72b86a9ba7179c8411d8"
+    },
+    "valor_total": 1825.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-05-29T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Elo",
+        "valor": 1825.0,
+        "num_parcelas": 3,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00534"
+      }
+    ],
+    "nota_fiscal": "NF-e 000454",
+    "data_criacao": {
+      "$date": "2026-05-29T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d9a0f13f5d6262a5f77a16ae"
+    },
+    "hospedagem_id": {
+      "$oid": "087863a7b748ac2f5350657e"
+    },
+    "reserva_id": {
+      "$oid": "e5b7fa955ba15fc85850ab3c"
+    },
+    "hospede_id": {
+      "$oid": "46a9ad38242ed89c10c9277f"
+    },
+    "valor_total": 1660.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-04-19T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Amex",
+        "valor": 1660.0,
+        "num_parcelas": 6,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00535"
+      }
+    ],
+    "nota_fiscal": "NF-e 000455",
+    "data_criacao": {
+      "$date": "2026-04-19T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "dc71ba6a6893b15c3c5dc451"
+    },
+    "hospedagem_id": {
+      "$oid": "875bf4c0fca3519e6833f46d"
+    },
+    "reserva_id": {
+      "$oid": "edbd947d9bf3560bd70641bd"
+    },
+    "hospede_id": {
+      "$oid": "a5e5a9c1818f99a23362ec38"
+    },
+    "valor_total": 5660.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-01-16T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_debito",
+        "valor": 5660.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00536"
+      }
+    ],
+    "nota_fiscal": "NF-e 000456",
+    "data_criacao": {
+      "$date": "2026-01-16T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6012053f1c420ba64ddfcb9b"
+    },
+    "hospedagem_id": {
+      "$oid": "f35f35715d01041896b0d297"
+    },
+    "reserva_id": {
+      "$oid": "0d146907cc416f9ce893be27"
+    },
+    "hospede_id": {
+      "$oid": "04d44a0011d579d9f4c2ff89"
+    },
+    "valor_total": 1105.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-08-05T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Elo",
+        "valor": 773.5,
+        "num_parcelas": 2,
+        "status": "aprovado",
+        "transacao_id": "TXN-CRD-00637"
+      },
+      {
+        "metodo": "pix",
+        "valor": 331.5,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00637"
+      }
+    ],
+    "nota_fiscal": "NF-e 000457",
+    "data_criacao": {
+      "$date": "2026-08-05T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d93945b92eedb1e7a95c2061"
+    },
+    "hospedagem_id": {
+      "$oid": "9c13ffc90ab758d8139cb60e"
+    },
+    "reserva_id": {
+      "$oid": "54dfa8d780dbeb37c5c67b8a"
+    },
+    "hospede_id": {
+      "$oid": "73077a7f5b30653c4796384c"
+    },
+    "valor_total": 3480.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-05-11T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "pix",
+        "valor": 3480.0,
+        "status": "aprovado",
+        "transacao_id": "TXN-PIX-00538"
+      }
+    ],
+    "nota_fiscal": "NF-e 000458",
+    "data_criacao": {
+      "$date": "2026-05-11T11:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e662a806a803f2c048022e29"
+    },
+    "hospedagem_id": {
+      "$oid": "1e142496c96d6cc5338c2596"
+    },
+    "reserva_id": {
+      "$oid": "8d2d28e8cb28825a5093972f"
+    },
+    "hospede_id": {
+      "$oid": "b09607ce657849633bd103ab"
+    },
+    "valor_total": 3085.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-08-12T11:05:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "bandeira": "Elo",
+        "valor": 3085.0,
+        "num_parcelas": 2,
+        "status": "aprovado",
+        "transacao_id": "TXN-CAR-00540"
+      }
+    ],
+    "nota_fiscal": "NF-e 000460",
+    "data_criacao": {
+      "$date": "2026-08-12T11:05:00Z"
+    }
+  }
+]

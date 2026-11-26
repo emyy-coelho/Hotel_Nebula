@@ -1,0 +1,346 @@
+[
+  {
+    "_id": {
+      "$oid": "2c2036465d91df7a569125b8"
+    },
+    "nome": "Café da manhã",
+    "categoria": "alimentacao",
+    "descricao": "Café da manhã completo no restaurante do hotel.",
+    "preco": 45.0,
+    "unidade": "pessoa",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "06:30",
+      "fim": "10:30"
+    },
+    "tags": [
+      "buffet",
+      "opcao_vegana"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9e4eddc5ef56f69f341565d9"
+    },
+    "nome": "Lavanderia",
+    "categoria": "lavanderia",
+    "descricao": "Lavagem e passadoria de roupas.",
+    "preco": 80.0,
+    "unidade": "pacote",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "08:00",
+      "fim": "18:00"
+    },
+    "tags": [
+      "expresso"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "0009970e63722efbd89314da"
+    },
+    "nome": "Minibar",
+    "categoria": "alimentacao",
+    "descricao": "Itens do frigobar do quarto.",
+    "preco": 25.0,
+    "unidade": "item",
+    "disponivel": true,
+    "tags": []
+  },
+  {
+    "_id": {
+      "$oid": "3b9c673890fd2f9bd448d23e"
+    },
+    "nome": "Spa",
+    "categoria": "bem_estar",
+    "descricao": "Massagem relaxante de 1 hora.",
+    "preco": 200.0,
+    "unidade": "sessao",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "10:00",
+      "fim": "20:00"
+    },
+    "tags": [
+      "relaxamento"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "ed52d411a5e658a19a5a826e"
+    },
+    "nome": "Traslado aeroporto",
+    "categoria": "transporte",
+    "descricao": "Transfer de ida ou volta ao aeroporto.",
+    "preco": 150.0,
+    "unidade": "viagem",
+    "disponivel": true,
+    "tags": [
+      "24h"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "e2c2a4d139def08e132bb934"
+    },
+    "nome": "Jantar",
+    "categoria": "alimentacao",
+    "descricao": "Jantar a la carte no restaurante do hotel.",
+    "preco": 95.0,
+    "unidade": "pessoa",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "19:00",
+      "fim": "22:30"
+    },
+    "tags": [
+      "a_la_carte"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "32b3fa2f7edcaa45b80e831a"
+    },
+    "nome": "Almoço",
+    "categoria": "alimentacao",
+    "descricao": "Almoço executivo no restaurante do hotel.",
+    "preco": 70.0,
+    "unidade": "pessoa",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "12:00",
+      "fim": "15:00"
+    },
+    "tags": [
+      "buffet"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "015df5ceb36dae542338cd5c"
+    },
+    "nome": "Room service",
+    "categoria": "alimentacao",
+    "descricao": "Refeições servidas no quarto.",
+    "preco": 35.0,
+    "unidade": "pedido",
+    "disponivel": true,
+    "tags": [
+      "24h"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "4dd0d807075b543c32af69dc"
+    },
+    "nome": "Café na cama",
+    "categoria": "alimentacao",
+    "descricao": "Café da manhã servido no quarto.",
+    "preco": 60.0,
+    "unidade": "unico",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "07:00",
+      "fim": "10:00"
+    },
+    "tags": [
+      "romantico"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "2cf2e0bc57e0e03b84531a77"
+    },
+    "nome": "Cesta de boas-vindas",
+    "categoria": "alimentacao",
+    "descricao": "Cesta com frutas, vinho e chocolates.",
+    "preco": 85.0,
+    "unidade": "unico",
+    "disponivel": true,
+    "tags": [
+      "presente"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "114e0373ae4004357daf6129"
+    },
+    "nome": "Aula de yoga",
+    "categoria": "bem_estar",
+    "descricao": "Aula de yoga guiada na área verde.",
+    "preco": 60.0,
+    "unidade": "sessao",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "07:00",
+      "fim": "09:00"
+    },
+    "tags": [
+      "relaxamento"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9e045d9162e3c2484f914002"
+    },
+    "nome": "Manicure e pedicure",
+    "categoria": "bem_estar",
+    "descricao": "Atendimento de manicure e pedicure.",
+    "preco": 90.0,
+    "unidade": "sessao",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "10:00",
+      "fim": "19:00"
+    },
+    "tags": []
+  },
+  {
+    "_id": {
+      "$oid": "c54ab4a98198c137d4e956f1"
+    },
+    "nome": "Estacionamento",
+    "categoria": "transporte",
+    "descricao": "Vaga coberta no estacionamento do hotel.",
+    "preco": 40.0,
+    "unidade": "diaria",
+    "disponivel": true,
+    "tags": [
+      "coberto"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "8d9d396b02b706fe026846c4"
+    },
+    "nome": "Aluguel de carro",
+    "categoria": "transporte",
+    "descricao": "Carro compacto com motorista opcional.",
+    "preco": 280.0,
+    "unidade": "diaria",
+    "disponivel": true,
+    "tags": [
+      "com_motorista_opcional"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "437ef427fa4e8c245fa7c5a8"
+    },
+    "nome": "Passeio turístico",
+    "categoria": "lazer",
+    "descricao": "Passeio guiado pelos pontos turísticos da cidade.",
+    "preco": 180.0,
+    "unidade": "pessoa",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "09:00",
+      "fim": "17:00"
+    },
+    "tags": [
+      "guiado"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "15130e32e4462eda28d7bb95"
+    },
+    "nome": "Passeio de barco",
+    "categoria": "lazer",
+    "descricao": "Passeio de barco pela costa.",
+    "preco": 250.0,
+    "unidade": "pessoa",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "10:00",
+      "fim": "16:00"
+    },
+    "tags": [
+      "guiado",
+      "mar"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "2dc8616ec435df794e644edb"
+    },
+    "nome": "Aluguel de bicicleta",
+    "categoria": "lazer",
+    "descricao": "Bicicleta para passeio pela orla.",
+    "preco": 50.0,
+    "unidade": "diaria",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "08:00",
+      "fim": "18:00"
+    },
+    "tags": []
+  },
+  {
+    "_id": {
+      "$oid": "f4773ca248de2eecdc6879c2"
+    },
+    "nome": "Cama extra",
+    "categoria": "hospedagem",
+    "descricao": "Cama extra instalada no quarto.",
+    "preco": 90.0,
+    "unidade": "diaria",
+    "disponivel": true,
+    "tags": [
+      "familia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "0a217118c2e9cf9be08444d8"
+    },
+    "nome": "Early check-in",
+    "categoria": "hospedagem",
+    "descricao": "Entrada antecipada no quarto.",
+    "preco": 100.0,
+    "unidade": "unico",
+    "disponivel": true,
+    "tags": []
+  },
+  {
+    "_id": {
+      "$oid": "d22fa2704f3661a75e3ea4ab"
+    },
+    "nome": "Late checkout",
+    "categoria": "hospedagem",
+    "descricao": "Saída estendida até as 16h.",
+    "preco": 120.0,
+    "unidade": "unico",
+    "disponivel": true,
+    "tags": []
+  },
+  {
+    "_id": {
+      "$oid": "6c690b2c5788c5e70afcb39b"
+    },
+    "nome": "Pet care",
+    "categoria": "pet",
+    "descricao": "Cuidados e passeio para animais de estimação.",
+    "preco": 60.0,
+    "unidade": "diaria",
+    "disponivel": true,
+    "tags": [
+      "pet"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "d9655017518b83a37be70b96"
+    },
+    "nome": "Decoração romântica",
+    "categoria": "especial",
+    "descricao": "Decoração especial do quarto com flores e velas.",
+    "preco": 150.0,
+    "unidade": "unico",
+    "disponivel": true,
+    "tags": [
+      "romantico"
+    ]
+  }
+]
